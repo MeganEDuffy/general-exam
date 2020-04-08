@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Duffy-generals-proposal..blg'
+[19] biber:315> INFO - === Mon Mar 30, 2020, 18:14:49
+[34] Utils.pm:209> ERROR - Cannot find control file 'Duffy-generals-proposal..bcf'! - Did latex run successfully on your .tex file before you ran biber?
+[35] Biber.pm:114> INFO - ERRORS: 1
