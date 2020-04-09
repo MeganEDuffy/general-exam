@@ -2599,6 +2599,162 @@
       \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1248364
       \endverb
     \endentry
+    \entry{ploug_ballast_2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ed4451994866ec05a80d044e27df193f}{%
+           family={Ploug},
+           familyi={P\bibinitperiod},
+           given={Helle},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b27affde4da13a716a121740422417a5}{%
+           family={Iversen},
+           familyi={I\bibinitperiod},
+           given={Morten},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7425544aba014e86d30094c538d9bc1e}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b8d822d89e6594b6a7de390d43b169c}
+      \strng{fullhash}{3b8d822d89e6594b6a7de390d43b169c}
+      \strng{bibnamehash}{3b8d822d89e6594b6a7de390d43b169c}
+      \strng{authorbibnamehash}{3b8d822d89e6594b6a7de390d43b169c}
+      \strng{authornamehash}{3b8d822d89e6594b6a7de390d43b169c}
+      \strng{authorfullhash}{3b8d822d89e6594b6a7de390d43b169c}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We analyzed size-specific dry mass, sinking velocity, and apparent diffusivity in field-sampled marine snow, laboratory-made aggregates formed by diatoms or coccolithophorids, and small and large zooplankton fecal pellets with naturally varying content of ballast materials. Apparent diffusivity was measured directly inside aggregates and large (millimeter-long) fecal pellets using microsensors. Large fecal pellets, collected in the coastal upwelling off Cape Blanc, Mauritania, showed the highest volume-specific dry mass and sinking velocities because of a high content of opal, carbonate, and lithogenic material (mostly Saharan dust), which together comprised similar to 80\% of the dry mass. The average solid matter density within these large fecal pellets was 1.7 g cm(-3), whereas their excess density was 0.25 +/- 0.07 g cm(-3). Volume-specific dry mass of all sources of aggregates and fecal pellets ranged from 3.8 to 960 mu g mm(-3), and average sinking velocities varied between 51 and 732 m d(-1). Porosity was {>}0.43 and {>}0.96 within fecal pellets and phytoplankton-derived aggregates, respectively. Averaged values of apparent diffusivity of gases within large fecal pellets and aggregates were 0.74 and 0.95 times that of the free diffusion coefficient in sea water, respectively. Ballast increases sinking velocity and, thus, also potential O(2) fluxes to sedimenting aggregates and fecal pellets. Hence, ballast minerals limit the residence time of aggregates in the water column by increasing sinking velocity, but apparent diffusivity and potential oxygen supply within aggregates are high, whereby a large fraction of labile organic carbon can be respired during sedimentation.}
+      \field{day}{1}
+      \field{journaltitle}{Limnology and oceanography}
+      \field{month}{9}
+      \field{shortjournal}{Limnology and oceanography}
+      \field{shorttitle}{Ballast, sinking velocity, and apparent diffusivity within marine snow and zooplankton fecal pellets}
+      \field{title}{Ballast, sinking velocity, and apparent diffusivity within marine snow and zooplankton fecal pellets: Implications for substrate turnover by attached bacteria}
+      \field{volume}{53}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{1878\bibrangedash 1886}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.4319/lo.2008.53.5.1878
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/millieginty/Zotero/storage/EXGXB9PC/Ploug et al. - 2008 - Ballast, sinking velocity, and apparent diffusivit.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{ploug_small-scale_2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ed4451994866ec05a80d044e27df193f}{%
+           family={Ploug},
+           familyi={P\bibinitperiod},
+           given={Helle},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed4451994866ec05a80d044e27df193f}
+      \strng{fullhash}{ed4451994866ec05a80d044e27df193f}
+      \strng{bibnamehash}{ed4451994866ec05a80d044e27df193f}
+      \strng{authorbibnamehash}{ed4451994866ec05a80d044e27df193f}
+      \strng{authornamehash}{ed4451994866ec05a80d044e27df193f}
+      \strng{authorfullhash}{ed4451994866ec05a80d044e27df193f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sinking aggregates are the major component of the vertical particulate flux in most regions of the ocean. Controlling factors for aggregate remineralization rates and solute exchange with the surrounding water, however, are poorly quantified because of few empirical data. To study the role of flow and diffusion on aggregate remineralization rates, oxygen distributions were mapped within and around aggregates by use of microelectrodes in a flow field similar to that experienced by sinking aggregates. The oxygen distribution was asymmetrical with a wake of undersaturated water at the rear (downstream) of the aggregates. Oxygen concentrations within the aggregates were {>}80\% of air saturation. The diffusive fluxes of oxygen at the aggregate-water interface were similar along the equator and at the downstream pole for a wide range of different aggregate sources (field-sampled diatom aggregates, lab-made diatom aggregates, aggregates formed from freeze-thawed diatoms, and zooplankton detritus aggregates) measured at various temperatures. Remineralization rates were reaction limited and, hence, determined by substrate quality and quantity rather than by transport-limited oxygen supply during sedimentation at ambient oxygen concentrations above 25 µM.}
+      \field{issn}{1939-5590}
+      \field{journaltitle}{Limnology and Oceanography}
+      \field{langid}{english}
+      \field{number}{7}
+      \field{title}{Small-scale oxygen fluxes and remineralization in sinking aggregates}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{46}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1624\bibrangedash 1631}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.4319/lo.2001.46.7.1624
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/CG84WERN/Ploug - 2001 - Small-scale oxygen fluxes and remineralization in .pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/2ZTS4ZGS/lo.2001.46.7.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2001.46.7.1624
+      \endverb
+      \verb{url}
+      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2001.46.7.1624
+      \endverb
+    \endentry
+    \entry{bianchi_global_2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=701bf05e6bc97158590d61ef73305c6c}{%
+           family={Bianchi},
+           familyi={B\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+        {{hash=db173326d7135151921182156772e52e}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Thomas\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=770243a13c4d924e1d6dce6c118ae69c}{%
+           family={Kiko},
+           familyi={K\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=453cefff1b7a3fcfd998d032346b0b25}{%
+           family={Deutsch},
+           familyi={D\bibinitperiod},
+           given={Curtis},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c85de1ac9db66253a8ca97286cd0ad5a}
+      \strng{fullhash}{b37a1de8f6b9fba9fec8df1d0f0aedc6}
+      \strng{bibnamehash}{b37a1de8f6b9fba9fec8df1d0f0aedc6}
+      \strng{authorbibnamehash}{b37a1de8f6b9fba9fec8df1d0f0aedc6}
+      \strng{authornamehash}{c85de1ac9db66253a8ca97286cd0ad5a}
+      \strng{authorfullhash}{b37a1de8f6b9fba9fec8df1d0f0aedc6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Particle microenvironments can sustain anaerobic metabolisms such as denitrification in hypoxic ocean areas, according to biogeochemical modelling. Rates of water column denitrification may be up to double previous estimates.}
+      \field{issn}{1752-0908}
+      \field{journaltitle}{Nature Geoscience}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{Nature Geosci}
+      \field{title}{Global niche of marine anaerobic metabolisms expanded by particle microenvironments}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{11}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{263\bibrangedash 268}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41561-018-0081-0
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/CDQU8JA9/Bianchi et al. - 2018 - Global niche of marine anaerobic metabolisms expan.pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/3B5N9499/s41561-018-0081-0.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/s41561-018-0081-0
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/s41561-018-0081-0
+      \endverb
+    \endentry
     \entry{wakeham_molecular_1997}{article}{}
       \name{author}{5}{}{%
         {{hash=f23718ab154e81ca1d4837d8053a82c7}{%
@@ -2633,8 +2789,8 @@
       \strng{authorbibnamehash}{ed39870e6b524b4668c69323bfd8ef0f}
       \strng{authornamehash}{b26ee4a460837ddc6eeb60b1de21fc46}
       \strng{authorfullhash}{ed39870e6b524b4668c69323bfd8ef0f}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The fluxes of individual carbohydrates, amino acids, lipids and pigments have been determined in net-plankton, particulate matter and sediments from three sites (9°N, 5°N, and 0°N) in the central equatorial Pacific to evaluate sources and reactivities of organic compounds. Although primary production rates vary markedly across this 9° swath, vertical trends in biochemical compositions remained remarkably parallel. Together these one hundred plus biochemicals account for 80\% of the total organic carbon (C org) in net-plankton and particles sinking from the euphotic zone, but represent only 24 and 20\% of the organic carbon in deep-water particles and surface sediments, respectively. Scaled profiles of relative abundances, clearly illustrate (a) exponential losses of plankton remains and increases in heterotroph biomarkers throughout the water column, (b) elevated proportions of bacterial markers near the sediment surface, and (c) preservation of selected remains of bacteria, phytoplankton and vascular land plants deeper in the sediments. In spite of one of the most comprehensive analyses of major biochemicals yet applied to marine particulate samples, percentages of molecularly uncharacterized organic carbon increase progressively down the water column to values near 80\% in the underlying sediments. The composition, formation pathway and information potential of this uncharatterized fraction are among the most fascinating questions in marine organic geochemistry.}
@@ -2667,55 +2823,445 @@
       \verb http://www.sciencedirect.com/science/article/pii/S0016703797003128
       \endverb
     \endentry
-    \entry{uniprot_consortium_uniprot:_2018}{article}{}
-      \name{author}{1}{}{%
-        {{hash=1c25befe9d35b626346363c6ab4f6757}{%
-           family={{UniProt}\bibnamedelima Consortium},
-           familyi={U\bibinitperiod\bibinitdelim C\bibinitperiod},
-           given={The},
-           giveni={T\bibinitperiod}}}%
+    \entry{riffle_metagomics_2017}{article}{}
+      \name{author}{7}{}{%
+        {{hash=34bb61d8093d4e974a0cebb7281bd31f}{%
+           family={Riffle},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e31470fe1f9c68293c9bfc61c2b2436c}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Damon\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=8c12e32777bde9d3bb32d686f6fe6300}{%
+           family={Timmins-Schiffman},
+           familyi={T\bibinithyphendelim S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0ad8d7af39a250df8f9a2ab1ddbb28ed}{%
+           family={Mikan},
+           familyi={M\bibinitperiod},
+           given={Molly\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a1f85bab3f9230b8a735337e4e7e058e}{%
+           family={Jaschob},
+           familyi={J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0babfb038adee3a2ae1c6b87ff3f940b}{%
+           family={Noble},
+           familyi={N\bibinitperiod},
+           given={William\bibnamedelima Stafford},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f3255688d7b987c2fd09bcf7e1f6a29b}{%
+           family={Nunn},
+           familyi={N\bibinitperiod},
+           given={Brook\bibnamedelima L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
-      \strng{namehash}{1c25befe9d35b626346363c6ab4f6757}
-      \strng{fullhash}{1c25befe9d35b626346363c6ab4f6757}
-      \strng{bibnamehash}{1c25befe9d35b626346363c6ab4f6757}
-      \strng{authorbibnamehash}{1c25befe9d35b626346363c6ab4f6757}
-      \strng{authornamehash}{1c25befe9d35b626346363c6ab4f6757}
-      \strng{authorfullhash}{1c25befe9d35b626346363c6ab4f6757}
+      \strng{namehash}{4477fe47d20b2ac3f99199669b7cd010}
+      \strng{fullhash}{b9ed833a627db225e67f29a9ea47e9b9}
+      \strng{bibnamehash}{b9ed833a627db225e67f29a9ea47e9b9}
+      \strng{authorbibnamehash}{b9ed833a627db225e67f29a9ea47e9b9}
+      \strng{authornamehash}{4477fe47d20b2ac3f99199669b7cd010}
+      \strng{authorfullhash}{b9ed833a627db225e67f29a9ea47e9b9}
       \field{sortinit}{3}
       \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Nucleic Acids Research (2017) 45: D158–D169, https://doi-org.offcampus.lib.washington.edu/10.1093/nar/gkw1099}
-      \field{day}{16}
-      \field{issn}{0305-1048}
-      \field{journaltitle}{Nucleic Acids Research}
+      \field{abstract}{Metaproteomics is the characterization of all proteins being expressed by a community of organisms in a complex biological sample at a single point in time. Applications of metaproteomics range from the comparative analysis of environmental samples (such as ocean water and soil) to microbiome data from multicellular organisms (such as the human gut). Metaproteomics research is often focused on the quantitative functional makeup of the metaproteome and which organisms are making those proteins. That is: What are the functions of the currently expressed proteins? How much of the metaproteome is associated with those functions? And, which microorganisms are expressing the proteins that perform those functions? However, traditional protein-centric functional analysis is greatly complicated by the large size, redundancy, and lack of biological annotations for the protein sequences in the database used to search the data. To help address these issues, we have developed an algorithm and web application (dubbed "{MetaGOmics}") that automates the quantitative functional (using Gene Ontology) and taxonomic analysis of metaproteomics data and subsequent visualization of the results. {MetaGOmics} is designed to overcome the shortcomings of traditional proteomics analysis when used with metaproteomics data. It is easy to use, requires minimal input, and fully automates most steps of the analysis-including comparing the functional makeup between samples. {MetaGOmics} is freely available at https://www.yeastrc.org/metagomics/.}
+      \field{day}{27}
+      \field{issn}{2227-7382}
+      \field{journaltitle}{Proteomes}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{Proteomes}
+      \field{shorttitle}{{MetaGOmics}}
+      \field{title}{{MetaGOmics}: A Web-Based Tool for Peptide-Centric Functional and Taxonomic Analysis of Metaproteomics Data}
+      \field{volume}{6}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3390/proteomes6010002
+      \endverb
+      \keyw{bioinformatics,data visualization,gene ontology,mass spectrometry,metaproteomics,proteomics,software}
+    \endentry
+    \entry{mikan_metaproteomics_2020}{article}{}
+      \name{author}{8}{}{%
+        {{hash=0ad8d7af39a250df8f9a2ab1ddbb28ed}{%
+           family={Mikan},
+           familyi={M\bibinitperiod},
+           given={Molly\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=15343873c5512f96096f70d9111a3c4e}{%
+           family={Harvey},
+           familyi={H\bibinitperiod},
+           given={H.\bibnamedelimi Rodger},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8c12e32777bde9d3bb32d686f6fe6300}{%
+           family={Timmins-Schiffman},
+           familyi={T\bibinithyphendelim S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod}}}%
+        {{hash=34bb61d8093d4e974a0cebb7281bd31f}{%
+           family={Riffle},
+           familyi={R\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e31470fe1f9c68293c9bfc61c2b2436c}{%
+           family={May},
+           familyi={M\bibinitperiod},
+           given={Damon\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=fae06e2cc6250b139d18c875694946c7}{%
+           family={Salter},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=26e8712e76b937f49b896653e76a621f}{%
+           family={Noble},
+           familyi={N\bibinitperiod},
+           given={William\bibnamedelima S.},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f3255688d7b987c2fd09bcf7e1f6a29b}{%
+           family={Nunn},
+           familyi={N\bibinitperiod},
+           given={Brook\bibnamedelima L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{c741800686dc5379d807262e97728563}
+      \strng{fullhash}{837d37df5462aed70aa9edaf025217e6}
+      \strng{bibnamehash}{837d37df5462aed70aa9edaf025217e6}
+      \strng{authorbibnamehash}{837d37df5462aed70aa9edaf025217e6}
+      \strng{authornamehash}{c741800686dc5379d807262e97728563}
+      \strng{authorfullhash}{837d37df5462aed70aa9edaf025217e6}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We examined metaproteome profiles from two Arctic microbiomes during 10-day shipboard incubations to directly track early functional and taxonomic responses to a simulated algal bloom and an oligotrophic control. Using a novel peptide-based enrichment analysis, significant changes (p-value {<} 0.01) in biological and molecular functions associated with carbon and nitrogen recycling were observed. Within the first day under both organic matter conditions, Bering Strait surface microbiomes increased protein synthesis, carbohydrate degradation, and cellular redox processes while decreasing C1 metabolism. Taxonomic assignments revealed that the core microbiome collectively responded to algal substrates by assimilating carbon before select taxa utilize and metabolize nitrogen intracellularly. Incubations of Chukchi Sea bottom water microbiomes showed similar, but delayed functional responses to identical treatments. Although 24 functional terms were shared between experimental treatments, the timing, and degree of the remaining responses were highly variable, showing that organic matter perturbation directs community functionality prior to alterations to the taxonomic distribution at the microbiome class level. The dynamic responses of these two oceanic microbial communities have important implications for timing and magnitude of responses to organic perturbations within the Arctic Ocean and how community-level functions may forecast biogeochemical gradients in oceans.}
+      \field{issn}{1751-7370}
+      \field{journaltitle}{The {ISME} Journal}
       \field{langid}{english}
-      \field{month}{3}
-      \field{number}{5}
-      \field{shortjournal}{Nucleic Acids Res}
-      \field{shorttitle}{{UniProt}}
-      \field{title}{{UniProt}: the universal protein knowledgebase}
-      \field{urlday}{14}
-      \field{urlmonth}{8}
-      \field{urlyear}{2019}
-      \field{volume}{46}
-      \field{year}{2018}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{{ISME} J}
+      \field{title}{Metaproteomics reveal that rapid perturbations in organic matter prioritize functional restructuring over taxonomy in western Arctic Ocean microbiomes}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{14}
+      \field{year}{2020}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{2699\bibrangedash 2699}
-      \range{pages}{1}
+      \field{pages}{39\bibrangedash 52}
+      \range{pages}{14}
       \verb{doi}
-      \verb 10.1093/nar/gky092
+      \verb 10.1038/s41396-019-0503-z
       \endverb
       \verb{file}
-      \verb Full Text PDF:/home/millieginty/Zotero/storage/SC8I6JH9/UniProt Consortium - 2018 - UniProt the universal protein knowledgebase.pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/VCDPMKW7/4841658.html:text/html
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/9785WV8D/Mikan et al. - 2020 - Metaproteomics reveal that rapid perturbations in .pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/2I2259BT/s41396-019-0503-z.html:text/html
       \endverb
       \verb{urlraw}
-      \verb https://academic-oup-com.offcampus.lib.washington.edu/nar/article/46/5/2699/4841658
+      \verb http://www.nature.com/articles/s41396-019-0503-z
       \endverb
       \verb{url}
-      \verb https://academic-oup-com.offcampus.lib.washington.edu/nar/article/46/5/2699/4841658
+      \verb http://www.nature.com/articles/s41396-019-0503-z
       \endverb
+    \endentry
+    \entry{close_export_2013}{article}{}
+      \name{author}{9}{}{%
+        {{hash=29385a0dbcf225e55f6ec50128caaa5a}{%
+           family={Close},
+           familyi={C\bibinitperiod},
+           given={Hilary\bibnamedelima G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3c6e6278368c6c4a70d6f96d54aab5b5}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Sunita\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=04ac103f6a0fe474c16c59bd69e5e880}{%
+           family={Ingalls},
+           familyi={I\bibinitperiod},
+           given={Anitra\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=130f686558496e5c656d981f2965e965}{%
+           family={Diefendorf},
+           familyi={D\bibinitperiod},
+           given={Aaron\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=fd5bcff7cd7257014e0a199b14e792fd}{%
+           family={Brodie},
+           familyi={B\bibinitperiod},
+           given={Eoin\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a1ee87e4883cffdcdee483d23691dbf2}{%
+           family={Hansman},
+           familyi={H\bibinitperiod},
+           given={Roberta\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=213a98e7c4a684fca3b76e4b95f38516}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={Katherine\bibnamedelima H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=67046ae0767e7fbff9bd0d51a2198479}{%
+           family={Aluwihare},
+           familyi={A\bibinitperiod},
+           given={Lihini\bibnamedelima I.},
+           giveni={L\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=a7d18b35d293b39d16f840ecc0134163}{%
+           family={Pearson},
+           familyi={P\bibinitperiod},
+           given={Ann},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8e056b06c4fe7d52b0fc005bdfb1ee0}
+      \strng{fullhash}{2e304550ccf0ad5d7bd93e8e647ec0c5}
+      \strng{bibnamehash}{2e304550ccf0ad5d7bd93e8e647ec0c5}
+      \strng{authorbibnamehash}{2e304550ccf0ad5d7bd93e8e647ec0c5}
+      \strng{authornamehash}{e8e056b06c4fe7d52b0fc005bdfb1ee0}
+      \strng{authorfullhash}{2e304550ccf0ad5d7bd93e8e647ec0c5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sixty percent of the world ocean by area is contained in oligotrophic gyres [Longhurst A (1995) Prog Oceanog 36:77–16], the biomass of which is dominated by picophytoplankton, including cyanobacteria and picoeukaryotic algae, as well as picoheterotrophs. Despite their recognized importance in carbon cycling in the surface ocean, the role of small cells and their detrital remains in the transfer of particulate organic matter ({POM}) to the deep ocean remains disputed. Because oligotrophic marine conditions are projected to expand under current climate trends, a better understanding of the role of small particles in the global carbon cycle is a timely goal. Here we use the lipid profiles, radiocarbon, and stable carbon isotopic signatures of lipids from the North Pacific Subtropical Gyre to show that in the surface ocean, lipids from submicron {POM} (here called extra-small {POM}) are distinct from larger classes of suspended {POM}. Remarkably, this distinct extra-small {POM} signature dominates the total lipids collected at mesopelagic depth, suggesting that the lipid component of mesopelagic {POM} primarily contains the exported remains of small particles. Transfer of submicron material to mesopelagic depths in this location is consistent with model results that claim the biological origin of exported carbon should be proportional to the distribution of cell types in the surface community, irrespective of cell size [Richardson {TL}, Jackson {GA} (2007) Science 315:838–840]. Our data suggest that the submicron component of exported {POM} is an important contributor to the global biological pump, especially in oligotrophic waters.}
+      \field{day}{30}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{31}
+      \field{shortjournal}{{PNAS}}
+      \field{title}{Export of submicron particulate organic matter to mesopelagic depth in an oligotrophic gyre}
+      \field{urlday}{11}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{volume}{110}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{12565\bibrangedash 12570}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1217514110
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/Z2BW7XMH/Close et al. - 2013 - Export of submicron particulate organic matter to .pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/XLQ9BKGM/12565.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/content/110/31/12565
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/content/110/31/12565
+      \endverb
+      \keyw{biogeochemistry,biomarkers,carbon isotopes,oceanography}
+    \endentry
+    \entry{richardson_small_2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=30ae73cbfe58372e782c9cc9e3dd7132}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Tammi\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=2f9949dfb0ce9abe498bd6c883b08f68}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={George\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3949584ccc9cfc838c95577bf5b78e1}
+      \strng{fullhash}{c3949584ccc9cfc838c95577bf5b78e1}
+      \strng{bibnamehash}{c3949584ccc9cfc838c95577bf5b78e1}
+      \strng{authorbibnamehash}{c3949584ccc9cfc838c95577bf5b78e1}
+      \strng{authornamehash}{c3949584ccc9cfc838c95577bf5b78e1}
+      \strng{authorfullhash}{c3949584ccc9cfc838c95577bf5b78e1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Autotrophic picoplankton dominate primary production over large oceanic regions but are believed to contribute relatively little to carbon export from surface layers. Using analyses of data from the equatorial Pacific Ocean and Arabian Sea, we show that the relative direct and indirect contribution of picoplankton to export is proportional to their total net primary production, despite their small size. We suggest that all primary producers, not just the large cells, can contribute to export from the surface layer of the ocean at rates proportional to their production rates. Abundant picoplankton, thought to be too small to settle in the ocean, actually contribute to the flux of carbon to the depths in an amount proportional to their production. Abundant picoplankton, thought to be too small to settle in the ocean, actually contribute to the flux of carbon to the depths in an amount proportional to their production.}
+      \field{day}{9}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{5813}
+      \field{title}{Small Phytoplankton and Carbon Export from the Surface Ocean}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{volume}{315}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{838\bibrangedash 840}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.1133471
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/6NRNCIQF/Richardson and Jackson - 2007 - Small Phytoplankton and Carbon Export from the Sur.pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/E8THHSE3/838.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://science.sciencemag.org/content/315/5813/838
+      \endverb
+      \verb{url}
+      \verb https://science.sciencemag.org/content/315/5813/838
+      \endverb
+    \endentry
+    \entry{evans_role_nodate}{article}{}
+      \name{author}{10}{}{%
+        {{hash=c10944b795ad18b525943cb0c985de1c}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Zachary\bibnamedelima C.},
+           giveni={Z\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8341413640a66e2d31ff0be388393bea}{%
+           family={Boles},
+           familyi={B\bibinitperiod},
+           given={Elisabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e6aa09cbd4a7a8e38e6944a008662526}{%
+           family={Kwiecinski},
+           familyi={K\bibinitperiod},
+           given={Jarek\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=a42b7c4ada1dd953b5b78a4a1b9a5da9}{%
+           family={Mullen},
+           familyi={M\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=348144c6ab2741d12a2a9ed7f731a4bc}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f0779aabd202def2825bc7463dd168c2}{%
+           family={Devol},
+           familyi={D\bibinitperiod},
+           given={Allan\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=565d43d06e1a2e20cfc57ee83ecc60ff}{%
+           family={Moriyasu},
+           familyi={M\bibinitperiod},
+           given={Rintaro},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fdf09e81964c6a68ce0be411d68b3357}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={{SungHyun}},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2fbc451676bd29e9ca6472c3b2c9accc}{%
+           family={Babbin},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=129ddc789d401a9383406fdb8483f7ba}{%
+           family={Moffett},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5578d7e5b548a90ad068c1a649b4160e}
+      \strng{fullhash}{5fc9a6ab93b144a478cb82b9664bc9ee}
+      \strng{bibnamehash}{5fc9a6ab93b144a478cb82b9664bc9ee}
+      \strng{authorbibnamehash}{5fc9a6ab93b144a478cb82b9664bc9ee}
+      \strng{authornamehash}{5578d7e5b548a90ad068c1a649b4160e}
+      \strng{authorfullhash}{5fc9a6ab93b144a478cb82b9664bc9ee}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Oceanic oxygen deficient zones ({ODZs}) influence global biogeochemical cycles in a variety of ways, most notably by acting as a sink for fixed nitrogen (Codispoti et al. 2001). Optimum multiparameter analysis of data from two cruises in the Eastern Tropical North Pacific ({ETNP}) was implemented to develop a water mass analysis for the large {ODZ} in this region. This analysis reveals that the most pronounced oxygen deficient conditions are within the 13°C water (13CW) mass, which is distributed via subsurface mesoscale features such as eddies branching from the California Undercurrent. Nitrite accumulates within these eddies and slightly below the core of the 13CW. This water mass analysis also reveals that the 13CW and deeper Northern Equatorial Pacific Intermediate Water ({NEPIW}) act as the two Pacific Equatorial source waters to the California Current System. The Equatorial Subsurface Water and Subtropical Subsurface Water are synonymous with the 13CW and this study refers to this water mass as the 13CW based on its history. Since the 13CW has been found to dominate the most pronounced oxygen deficient conditions within the Eastern Tropical South Pacific {ODZ} and the Peru-Chile Undercurrent, the 13CW and the {NEPIW} define boundaries for oxygen minimum conditions across the entire eastern Pacific Ocean.}
+      \field{issn}{1939-5590}
+      \field{issue}{n/a}
+      \field{journaltitle}{Limnology and Oceanography}
+      \field{langid}{english}
+      \field{title}{The role of water masses in shaping the distribution of redox active compounds in the Eastern Tropical North Pacific oxygen deficient zone and influencing low oxygen concentrations in the eastern Pacific Ocean}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{n/a}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1002/lno.11412
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/millieginty/Zotero/storage/8D3YYCIJ/lno.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.11412
+      \endverb
+      \verb{url}
+      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.11412
+      \endverb
+    \endentry
+    \entry{margolskee_ventilation_2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1c44efd03e969fd1f224017fc2abd9ca}{%
+           family={Margolskee},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=297598cf7b4180a2432456c4f52e0562}{%
+           family={Frenzel},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fc5d1c53abb73b1e51345d9c9c5909eb}{%
+           family={Emerson},
+           familyi={E\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4707dab3c745dc61fac40f3ab4bbb214}{%
+           family={Deutsch},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{69d660890b0d514acafe4321d2ba87bd}
+      \strng{fullhash}{7a63a71d7fa76365846e43d74a4efdb8}
+      \strng{bibnamehash}{7a63a71d7fa76365846e43d74a4efdb8}
+      \strng{authorbibnamehash}{7a63a71d7fa76365846e43d74a4efdb8}
+      \strng{authornamehash}{69d660890b0d514acafe4321d2ba87bd}
+      \strng{authorfullhash}{7a63a71d7fa76365846e43d74a4efdb8}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Oxygen deficient zones ({ODZs}) in the tropical ocean exert a profound influence on global biogeochemical cycles, but the factors that regulate their long-term structure and sensitivity to oceanic change remain poorly understood. We analyzed hydrographic observations and a high-resolution physical/biogeochemical model to diagnose the primary pathways that ventilate the tropical Pacific {ODZs}. Historical and recent autonomous observations reveal pronounced and widespread O2 peaks, termed secondary oxygen maxima ({SOMs}), within the depths of the broader O2 minimum layer, especially at the equatorward edge of both northern and southern {ODZs}. In the northern {ODZ}, Lagrangian particle tracking in an eddy-permitting numerical model simulation attributes these features to intrusions of the Northern Subsurface Countercurrent along the equatorial edge of the {ODZ}. Zonal subsurface jets also ventilate the poleward edge of the northern {ODZ} but induce a smaller O2 flux and do not yield detectable {SOMs}. Along the {ODZ}'s eastern boundary, oxygenation is achieved by the seasonal cycle of upwelling of low-O2 water onto the continental shelf, followed by downwelling of O2-replenished near-surface waters back into the {ODZ}. Waters entering the northern Pacific {ODZ} originate from the extratropics in both hemispheres, but two thirds are from the Southern Hemisphere and arrive later and with a wider range of transit times. These results suggest that predicting future changes in the large Pacific {ODZs} will require a better understanding of the climate sensitivity of the narrow zonal jets and seasonal dynamics of coastal upwelling that supply their O2.}
+      \field{issn}{1944-9224}
+      \field{journaltitle}{Global Biogeochemical Cycles}
+      \field{langid}{english}
+      \field{number}{7}
+      \field{title}{Ventilation Pathways for the North Pacific Oxygen Deficient Zone}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{33}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{875\bibrangedash 890}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1029/2018GB006149
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/6LTHZM9S/Margolskee et al. - 2019 - Ventilation Pathways for the North Pacific Oxygen .pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/PBEEHA95/2018GB006149.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006149
+      \endverb
+      \verb{url}
+      \verb https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006149
+      \endverb
+      \keyw{oxygen deficient zone,Regional Ocean Modeling System,secondary oxygen maxima,ventilation}
     \endentry
     \entry{butman_significant_2011}{article}{}
       \name{author}{2}{}{%
@@ -3294,6 +3840,172 @@
       \verb https://doi.org/10.1186/2049-2618-2-17
       \endverb
     \endentry
+    \entry{satinsky_metagenomic_2015}{article}{}
+      \name{author}{11}{}{%
+        {{hash=c6c24c969fd868139bba92dc0dde8dc5}{%
+           family={Satinsky},
+           familyi={S\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=22db71018ab3926277fee4fd3475017b}{%
+           family={Fortunato},
+           familyi={F\bibinitperiod},
+           given={Caroline\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=dad544b881bb3fc4649e58bacd00b151}{%
+           family={Doherty},
+           familyi={D\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c241a7abd0fe8460a2bf72644bb52e05}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Christa\bibnamedelima B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=db980aa5aebe4e3995b87351616248a2}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Shalabh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed2fa5b0ebb8fc81e6f9afaad17dcffb}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Nicholas\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=1ffab9cb3f1db94f0a583cbc05fbab4d}{%
+           family={Krusche},
+           familyi={K\bibinitperiod},
+           given={Alex\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=ff33727398d5f1929e37988256a3c4f9}{%
+           family={Yager},
+           familyi={Y\bibinitperiod},
+           given={Patricia\bibnamedelima L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=064a93ac2d6c99d5fd7966eab38db8e7}{%
+           family={Richey},
+           familyi={R\bibinitperiod},
+           given={Jeffrey\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e6f2a21bacb4998bc1ae8e4e10ac9e13}{%
+           family={Moran},
+           familyi={M\bibinitperiod},
+           given={Mary\bibnamedelima Ann},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f3225f9bf838e4acbfd1565739467c93}{%
+           family={Crump},
+           familyi={C\bibinitperiod},
+           given={Byron\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c44449b8dbb8fb2ff5ebbc7b69c9f74}
+      \strng{fullhash}{eaa9a6cb6ea53c7f92671518584a9556}
+      \strng{bibnamehash}{eaa9a6cb6ea53c7f92671518584a9556}
+      \strng{authorbibnamehash}{eaa9a6cb6ea53c7f92671518584a9556}
+      \strng{authornamehash}{2c44449b8dbb8fb2ff5ebbc7b69c9f74}
+      \strng{authorfullhash}{eaa9a6cb6ea53c7f92671518584a9556}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{BACKGROUND}: The Amazon River runs nearly 6500 km across the South American continent before emptying into the western tropical North Atlantic Ocean. In terms of both volume and watershed area, it is the world's largest riverine system, affecting elemental cycling on a global scale. {RESULTS}: A quantitative inventory of genes and transcripts benchmarked with internal standards was obtained at five stations in the lower Amazon River during May 2011. At each station, metagenomes and metatranscriptomes were obtained in duplicate for two microbial size fractions (free-living, 0.2 to 2.0 μm; particle-associated, 2.0 to 297 μm) using 150 × 150 paired-end Illumina sequencing. Forty eight sample datasets were obtained, averaging 15 × 10(6) potential protein-encoding reads each (730 × 10(6) total). Prokaryotic metagenomes and metatranscriptomes were dominated by members of the phyla Actinobacteria, Planctomycetes, Betaproteobacteria, Verrucomicrobia, Nitrospirae, and Acidobacteria. The actinobacterium {SCGC} {AAA}027-L06 reference genome recruited the greatest number of reads overall, with this single bin contributing an average of 50 billion genes and 500 million transcripts per liter of river water. Several dominant taxa were unevenly distributed between the free-living and particle-associated size fractions, such as a particle-associated bias for reads binning to planctomycete Schlesneria paludicola and a free-living bias for actinobacterium {SCGC} {AAA}027-L06. Gene expression ratios (transcripts to gene copy ratio) increased downstream from Óbidos to Macapá and Belém, indicating higher per cell activity of Amazon River bacteria and archaea as river water approached the ocean. {CONCLUSION}: This inventory of riverine microbial genes and transcripts, benchmarked with internal standards for full quantitation, provides an unparalleled window into microbial taxa and functions in the globally important Amazon River ecosystem.}
+      \field{day}{10}
+      \field{issn}{2049-2618}
+      \field{journaltitle}{Microbiome}
+      \field{month}{9}
+      \field{shortjournal}{Microbiome}
+      \field{title}{Metagenomic and metatranscriptomic inventories of the lower Amazon River, May 2011}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{39}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40168-015-0099-0
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/millieginty/Zotero/storage/CRQRBK3P/Satinsky et al. - 2015 - Metagenomic and metatranscriptomic inventories of .pdf:application/pdf
+      \endverb
+      \keyw{Metagenome,Microbiota,Metagenomics,Rivers,Seasons,Transcriptome}
+    \endentry
+    \entry{ghai_metagenomics_2011}{article}{}
+      \name{author}{9}{}{%
+        {{hash=595920f6a3ac39fd6f487adfccbe4099}{%
+           family={Ghai},
+           familyi={G\bibinitperiod},
+           given={Rohit},
+           giveni={R\bibinitperiod}}}%
+        {{hash=110add280d21d648defbda92acad33c0}{%
+           family={Rodriguez-Valera},
+           familyi={R\bibinithyphendelim V\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4a177f8babbc75c09b1d649d3b34e826}{%
+           family={{McMahon}},
+           familyi={M\bibinitperiod},
+           given={Katherine\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=67c16179b2a9093fdcd4e2662133d30d}{%
+           family={Toyama},
+           familyi={T\bibinitperiod},
+           given={Danyelle},
+           giveni={D\bibinitperiod}}}%
+        {{hash=003ac9da8371c7cb4f3324a5be580cea}{%
+           family={Rinke},
+           familyi={R\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=73d554d60f7d8495346ba16b3c6c3fac}{%
+           family={Cristina\bibnamedelimb Souza\bibnamedelimb de\bibnamedelima Oliveira},
+           familyi={C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Tereza},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f7ddff67eeb29d4df0b512c5a83b89f7}{%
+           family={Wagner\bibnamedelima Garcia},
+           familyi={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d6d1d31996cb5aa8cb5d245a3d214992}{%
+           family={Pellon\bibnamedelimb de\bibnamedelima Miranda},
+           familyi={P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e1bef59f0ee8780857a9530fa95353e7}{%
+           family={Henrique-Silva},
+           familyi={H\bibinithyphendelim S\bibinitperiod},
+           given={Flavio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{55881be13a81aed2ea4505894a994a6d}
+      \strng{fullhash}{d96cf8a6d8dac12d3c0731532e580908}
+      \strng{bibnamehash}{d96cf8a6d8dac12d3c0731532e580908}
+      \strng{authorbibnamehash}{d96cf8a6d8dac12d3c0731532e580908}
+      \strng{authornamehash}{55881be13a81aed2ea4505894a994a6d}
+      \strng{authorfullhash}{d96cf8a6d8dac12d3c0731532e580908}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{River water is a small percentage of the total freshwater on Earth but represents an essential resource for mankind. Microbes in rivers perform essential ecosystem roles including the mineralization of significant quantities of organic matter originating from terrestrial habitats. The Amazon river in particular is famous for its size and importance in the mobilization of both water and carbon out of its enormous basin. Here we present the first metagenomic study on the microbiota of this river. It presents many features in common with the other freshwater metagenome available (Lake Gatun in Panama) and much less similarity with marine samples. Among the microbial taxa found, the cosmopolitan freshwater {acI} lineage of the actinobacteria was clearly dominant. Group I Crenarchaea and the freshwater sister group of the marine {SAR}11 clade, {LD}12, were found alongside more exclusive and well known freshwater taxa such as Polynucleobacter. A metabolism-centric analysis revealed a disproportionate representation of pathways involved in heterotrophic carbon processing, as compared to those found in marine samples. In particular, these river microbes appear to be specialized in taking up and mineralizing allochthonous carbon derived from plant material.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{{PloS} One}
+      \field{number}{8}
+      \field{shortjournal}{{PLoS} {ONE}}
+      \field{title}{Metagenomics of the water column in the pristine upper course of the Amazon river}
+      \field{volume}{6}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{e23785}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0023785
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/millieginty/Zotero/storage/IAL56HTN/Ghai et al. - 2011 - Metagenomics of the water column in the pristine u.pdf:application/pdf
+      \endverb
+      \keyw{Fresh Water,Actinobacteria,Metagenomics,Rivers,Panama}
+    \endentry
     \entry{good_predicting_2018}{article}{}
       \name{author}{3}{}{%
         {{hash=ba4790bd7dea311391650d553b83ca80}{%
@@ -3318,8 +4030,8 @@
       \strng{authorbibnamehash}{ee073c37addc0438f2667cbc9b1eb383}
       \strng{authornamehash}{ee073c37addc0438f2667cbc9b1eb383}
       \strng{authorfullhash}{ee073c37addc0438f2667cbc9b1eb383}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Recent advances in microbiology techniques, such as genetic sequencing, allow for rapid and cost-effective collection of large quantities of genetic information carried within water samples. Here we posit that the unique composition of aquatic {DNA} material within a water sample contains relevant information about hydrologic function at multiple temporal scales. In this study, machine learning was used to develop discharge prediction models trained on the relative abundance of bacterial taxa classified into operational taxonomic units ({OTUs}) based on 16S {rRNA} gene sequences from six large arctic rivers. We term this approach “genohydrology,” and show that {OTU} relative abundances can be used to predict river discharge at monthly and longer timescales. Based on a single {DNA} sample from each river, the average Nash-Sutcliffe efficiency ({NSE}) for predicted mean monthly discharge values throughout the year was 0.84, while the {NSE} for predicted discharge values across different return intervals was 0.67. These are considerable improvements over predictions based only on the area-scaled mean specific discharge of five similar rivers, which had average {NSE} values of 0.64 and −0.32 for seasonal and recurrence interval discharge values, respectively. The genohydrology approach demonstrates that genetic diversity within the aquatic microbiome is a large and underutilized data resource with benefits for prediction of hydrologic function.}
@@ -3370,8 +4082,8 @@
       \strng{authorbibnamehash}{05214e4f646d916df67842e9c43c688f}
       \strng{authornamehash}{05214e4f646d916df67842e9c43c688f}
       \strng{authorfullhash}{05214e4f646d916df67842e9c43c688f}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The bacterioplankton community composition (measured with denaturing gradient gel electrophoresis of 16S ribosomal {DNA} [{rDNA}]) of two nonintersecting temperate rivers was nearly identical and changed synchronously over 2.5 yr, suggesting that intrinsic controls on bacteria were similar in the two rivers and that seasonal changes were driven by extrinsic factors such as climate. Most potential controls on community composition also exhibited synchrony; these included bacterial production rate (leucine incorporation), water temperature, river flow rate, and a suite of chemical measurements. Temperature and river flow rate were the best predictors of temporal patterns in diversity. However, diversity patterns also correlated with bacterial production and concentrations of dissolved organic nitrogen and nitrate, suggesting that diversity is directly or indirectly influenced by complex seasonal shifts in environmental conditions. Winter and summer communities were somewhat predictable over 3 yr, although these communities were not identical. Two polymerase chain reaction ({PCR})-amplified clone libraries of 16S {rDNA}, constructed with summer samples from each river, were not significantly different and contained typical freshwater bacterioplankton of the beta-Proteobacteria, Bacteroidetes, and Actinobacteria, including members of five new freshwater bacterioplankton clusters. However, libraries also included several phylotypes related to bacteria from soil and sediment, indicating the potential importance of allochthonous organisms in river diversity.}
@@ -3400,165 +4112,6 @@
       \endverb
       \verb{url}
       \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2005.50.6.1718
-      \endverb
-    \endentry
-    \entry{paulsen_biological_2019}{article}{}
-      \name{author}{7}{}{%
-        {{hash=6daa95023f313265ebdb2cce26184c38}{%
-           family={Paulsen},
-           familyi={P\bibinitperiod},
-           given={Maria\bibnamedelima Lund},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=8c464629db3506739942f24bfa406d23}{%
-           family={Müller},
-           familyi={M\bibinitperiod},
-           given={Oliver},
-           giveni={O\bibinitperiod}}}%
-        {{hash=2b077b8faa75e7b87aac14c2ff5f9c22}{%
-           family={Larsen},
-           familyi={L\bibinitperiod},
-           given={Aud},
-           giveni={A\bibinitperiod}}}%
-        {{hash=d44c86bc7c11359044baaa7fcf90ad85}{%
-           family={Møller},
-           familyi={M\bibinitperiod},
-           given={Eva\bibnamedelima Friis},
-           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=b5eb19be3dcddb591132b56140460ebe}{%
-           family={Middelboe},
-           familyi={M\bibinitperiod},
-           given={Mathias},
-           giveni={M\bibinitperiod}}}%
-        {{hash=73181b9aeb30876c7179585ae27ed017}{%
-           family={Sejr},
-           familyi={S\bibinitperiod},
-           given={Mikael\bibnamedelima K.},
-           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=a299c751ef938f8d77fba4ac57e24049}{%
-           family={Stedmon},
-           familyi={S\bibinitperiod},
-           given={Colin},
-           giveni={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{4658eb2c2ff3a0e9861b95ba0fb53b78}
-      \strng{fullhash}{8cde4ff2f026bd6f2bbc99b9d77b15a4}
-      \strng{bibnamehash}{8cde4ff2f026bd6f2bbc99b9d77b15a4}
-      \strng{authorbibnamehash}{8cde4ff2f026bd6f2bbc99b9d77b15a4}
-      \strng{authornamehash}{4658eb2c2ff3a0e9861b95ba0fb53b78}
-      \strng{authorfullhash}{8cde4ff2f026bd6f2bbc99b9d77b15a4}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Arctic waters are often enriched with terrestrial dissolved organic matter ({DOM}) characterized by having elevated visible wavelength fluorescence (commonly termed humic-like). Here, we have identified the sources of fluorescent {DOM} ({FDOM}) in a high Arctic fjord (Young Sound, {NE} Greenland) influenced by glacial meltwater. The biological transformation of {FDOM} was further investigated using plankton community size-fractionation experiments. The intensity of ultraviolet fluorescence (commonly termed amino acid-like) was highly variable and positively correlated to bacterial production and mesozooplankton grazing. The overall distribution of visible {FDOM} in the fjord was hydrographically driven by the high-signal intrusion of Arctic terrestrial {DOM} from shelf waters and dilution with glacial runoff in the surface waters. However, the high-intensity visible {FDOM} that accumulated in subsurface waters in summer was not solely linked to allochthonous sources. Our data indicate that microbial activity, in particular, protist bacterivory, to be a source. A decrease in visible {FDOM} in subsurface waters was concurrent with an increase in bacterial abundance, indicating an active bacterial uptake or modification of this {DOM} fraction. This was confirmed by net-loss of visible {FDOM} in experiments during summer when bacterial activity was high. The degradation of visible {FDOM} appeared to be associated with bacteria belonging to the order Alteromonadales mainly the genus Glaciecola and the {SAR}92 clade. The findings provide new insight into the character of Arctic terrestrial {DOM} and the biological production and degradation of both visible and {UV} wavelength organic matter in the coastal Arctic.}
-      \field{issn}{1939-5590}
-      \field{journaltitle}{Limnology and Oceanography}
-      \field{langid}{english}
-      \field{number}{3}
-      \field{title}{Biological transformation of Arctic dissolved organic matter in a {NE} Greenland fjord}
-      \field{urlday}{7}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{volume}{64}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1014\bibrangedash 1033}
-      \range{pages}{20}
-      \verb{doi}
-      \verb 10.1002/lno.11091
-      \endverb
-      \verb{file}
-      \verb Snapshot:/home/millieginty/Zotero/storage/ARGU8F42/lno.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.11091
-      \endverb
-      \verb{url}
-      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.11091
-      \endverb
-    \endentry
-    \entry{mikan_metaproteomics_2020}{article}{}
-      \name{author}{8}{}{%
-        {{hash=0ad8d7af39a250df8f9a2ab1ddbb28ed}{%
-           family={Mikan},
-           familyi={M\bibinitperiod},
-           given={Molly\bibnamedelima P.},
-           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=15343873c5512f96096f70d9111a3c4e}{%
-           family={Harvey},
-           familyi={H\bibinitperiod},
-           given={H.\bibnamedelimi Rodger},
-           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=8c12e32777bde9d3bb32d686f6fe6300}{%
-           family={Timmins-Schiffman},
-           familyi={T\bibinithyphendelim S\bibinitperiod},
-           given={Emma},
-           giveni={E\bibinitperiod}}}%
-        {{hash=34bb61d8093d4e974a0cebb7281bd31f}{%
-           family={Riffle},
-           familyi={R\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=e31470fe1f9c68293c9bfc61c2b2436c}{%
-           family={May},
-           familyi={M\bibinitperiod},
-           given={Damon\bibnamedelima H.},
-           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=fae06e2cc6250b139d18c875694946c7}{%
-           family={Salter},
-           familyi={S\bibinitperiod},
-           given={Ian},
-           giveni={I\bibinitperiod}}}%
-        {{hash=26e8712e76b937f49b896653e76a621f}{%
-           family={Noble},
-           familyi={N\bibinitperiod},
-           given={William\bibnamedelima S.},
-           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=f3255688d7b987c2fd09bcf7e1f6a29b}{%
-           family={Nunn},
-           familyi={N\bibinitperiod},
-           given={Brook\bibnamedelima L.},
-           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{c741800686dc5379d807262e97728563}
-      \strng{fullhash}{837d37df5462aed70aa9edaf025217e6}
-      \strng{bibnamehash}{837d37df5462aed70aa9edaf025217e6}
-      \strng{authorbibnamehash}{837d37df5462aed70aa9edaf025217e6}
-      \strng{authornamehash}{c741800686dc5379d807262e97728563}
-      \strng{authorfullhash}{837d37df5462aed70aa9edaf025217e6}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We examined metaproteome profiles from two Arctic microbiomes during 10-day shipboard incubations to directly track early functional and taxonomic responses to a simulated algal bloom and an oligotrophic control. Using a novel peptide-based enrichment analysis, significant changes (p-value {<} 0.01) in biological and molecular functions associated with carbon and nitrogen recycling were observed. Within the first day under both organic matter conditions, Bering Strait surface microbiomes increased protein synthesis, carbohydrate degradation, and cellular redox processes while decreasing C1 metabolism. Taxonomic assignments revealed that the core microbiome collectively responded to algal substrates by assimilating carbon before select taxa utilize and metabolize nitrogen intracellularly. Incubations of Chukchi Sea bottom water microbiomes showed similar, but delayed functional responses to identical treatments. Although 24 functional terms were shared between experimental treatments, the timing, and degree of the remaining responses were highly variable, showing that organic matter perturbation directs community functionality prior to alterations to the taxonomic distribution at the microbiome class level. The dynamic responses of these two oceanic microbial communities have important implications for timing and magnitude of responses to organic perturbations within the Arctic Ocean and how community-level functions may forecast biogeochemical gradients in oceans.}
-      \field{issn}{1751-7370}
-      \field{journaltitle}{The {ISME} Journal}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{number}{1}
-      \field{shortjournal}{{ISME} J}
-      \field{title}{Metaproteomics reveal that rapid perturbations in organic matter prioritize functional restructuring over taxonomy in western Arctic Ocean microbiomes}
-      \field{urlday}{7}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{volume}{14}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{39\bibrangedash 52}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1038/s41396-019-0503-z
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/millieginty/Zotero/storage/9785WV8D/Mikan et al. - 2020 - Metaproteomics reveal that rapid perturbations in .pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/2I2259BT/s41396-019-0503-z.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://www.nature.com/articles/s41396-019-0503-z
-      \endverb
-      \verb{url}
-      \verb http://www.nature.com/articles/s41396-019-0503-z
       \endverb
     \endentry
     \entry{ward_marine_2018}{article}{}
@@ -3606,8 +4159,8 @@
       \strng{authornamehash}{1feb0157c431718bf6d62d80540465f2}
       \strng{authorfullhash}{6421b87b281d63ba6172b31566f22551}
       \field{extraname}{3}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Here, we examine how marine microbial communities respond when dissolved organic matter ({DOM}) is mobilized from coastal wetlands. Biological transformations of this {DOM} may increase in the presence of reactive substrates, such as algal‐derived {DOM} ({ADOM}) in the coastal zone—a process known as priming. We performed laboratory experiments examining transformations of {DOM} derived from coastal wetland peat ({PDOM}) with and without the presence {ADOM}. Associated shifts in microbial community composition and functional gene abundance were measured to evaluate mechanisms of priming effects. {ADOM} presence stimulated {CO}2 production when compared to the seawater control, which was further enhanced in the copresence of {PDOM}. {DOM} characterization showed a substantial difference in features present at the end of the incubation when {PDOM} was present with and without {ADOM}, while metagenomic sequencing indicated shifts in microbial community composition and identified 23 unique functional genes associated with pathways for the breakdown of aromatic compounds.}
@@ -3912,173 +4465,8 @@
       \verb http://www.sciencedirect.com/science/article/pii/0009254194900639
       \endverb
     \endentry
-    \entry{satinsky_metagenomic_2015}{article}{}
-      \name{author}{11}{}{%
-        {{hash=c6c24c969fd868139bba92dc0dde8dc5}{%
-           family={Satinsky},
-           familyi={S\bibinitperiod},
-           given={Brandon\bibnamedelima M.},
-           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=22db71018ab3926277fee4fd3475017b}{%
-           family={Fortunato},
-           familyi={F\bibinitperiod},
-           given={Caroline\bibnamedelima S.},
-           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=dad544b881bb3fc4649e58bacd00b151}{%
-           family={Doherty},
-           familyi={D\bibinitperiod},
-           given={Mary},
-           giveni={M\bibinitperiod}}}%
-        {{hash=c241a7abd0fe8460a2bf72644bb52e05}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={Christa\bibnamedelima B.},
-           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=db980aa5aebe4e3995b87351616248a2}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={Shalabh},
-           giveni={S\bibinitperiod}}}%
-        {{hash=ed2fa5b0ebb8fc81e6f9afaad17dcffb}{%
-           family={Ward},
-           familyi={W\bibinitperiod},
-           given={Nicholas\bibnamedelima D.},
-           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=1ffab9cb3f1db94f0a583cbc05fbab4d}{%
-           family={Krusche},
-           familyi={K\bibinitperiod},
-           given={Alex\bibnamedelima V.},
-           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
-        {{hash=ff33727398d5f1929e37988256a3c4f9}{%
-           family={Yager},
-           familyi={Y\bibinitperiod},
-           given={Patricia\bibnamedelima L.},
-           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=064a93ac2d6c99d5fd7966eab38db8e7}{%
-           family={Richey},
-           familyi={R\bibinitperiod},
-           given={Jeffrey\bibnamedelima E.},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=e6f2a21bacb4998bc1ae8e4e10ac9e13}{%
-           family={Moran},
-           familyi={M\bibinitperiod},
-           given={Mary\bibnamedelima Ann},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=f3225f9bf838e4acbfd1565739467c93}{%
-           family={Crump},
-           familyi={C\bibinitperiod},
-           given={Byron\bibnamedelima C.},
-           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \strng{namehash}{2c44449b8dbb8fb2ff5ebbc7b69c9f74}
-      \strng{fullhash}{eaa9a6cb6ea53c7f92671518584a9556}
-      \strng{bibnamehash}{eaa9a6cb6ea53c7f92671518584a9556}
-      \strng{authorbibnamehash}{eaa9a6cb6ea53c7f92671518584a9556}
-      \strng{authornamehash}{2c44449b8dbb8fb2ff5ebbc7b69c9f74}
-      \strng{authorfullhash}{eaa9a6cb6ea53c7f92671518584a9556}
-      \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{{BACKGROUND}: The Amazon River runs nearly 6500 km across the South American continent before emptying into the western tropical North Atlantic Ocean. In terms of both volume and watershed area, it is the world's largest riverine system, affecting elemental cycling on a global scale. {RESULTS}: A quantitative inventory of genes and transcripts benchmarked with internal standards was obtained at five stations in the lower Amazon River during May 2011. At each station, metagenomes and metatranscriptomes were obtained in duplicate for two microbial size fractions (free-living, 0.2 to 2.0 μm; particle-associated, 2.0 to 297 μm) using 150 × 150 paired-end Illumina sequencing. Forty eight sample datasets were obtained, averaging 15 × 10(6) potential protein-encoding reads each (730 × 10(6) total). Prokaryotic metagenomes and metatranscriptomes were dominated by members of the phyla Actinobacteria, Planctomycetes, Betaproteobacteria, Verrucomicrobia, Nitrospirae, and Acidobacteria. The actinobacterium {SCGC} {AAA}027-L06 reference genome recruited the greatest number of reads overall, with this single bin contributing an average of 50 billion genes and 500 million transcripts per liter of river water. Several dominant taxa were unevenly distributed between the free-living and particle-associated size fractions, such as a particle-associated bias for reads binning to planctomycete Schlesneria paludicola and a free-living bias for actinobacterium {SCGC} {AAA}027-L06. Gene expression ratios (transcripts to gene copy ratio) increased downstream from Óbidos to Macapá and Belém, indicating higher per cell activity of Amazon River bacteria and archaea as river water approached the ocean. {CONCLUSION}: This inventory of riverine microbial genes and transcripts, benchmarked with internal standards for full quantitation, provides an unparalleled window into microbial taxa and functions in the globally important Amazon River ecosystem.}
-      \field{day}{10}
-      \field{issn}{2049-2618}
-      \field{journaltitle}{Microbiome}
-      \field{month}{9}
-      \field{shortjournal}{Microbiome}
-      \field{title}{Metagenomic and metatranscriptomic inventories of the lower Amazon River, May 2011}
-      \field{volume}{3}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \field{pages}{39}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1186/s40168-015-0099-0
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/millieginty/Zotero/storage/CRQRBK3P/Satinsky et al. - 2015 - Metagenomic and metatranscriptomic inventories of .pdf:application/pdf
-      \endverb
-      \keyw{Metagenome,Microbiota,Metagenomics,Rivers,Seasons,Transcriptome}
-    \endentry
-    \entry{ghai_metagenomics_2011}{article}{}
-      \name{author}{9}{}{%
-        {{hash=595920f6a3ac39fd6f487adfccbe4099}{%
-           family={Ghai},
-           familyi={G\bibinitperiod},
-           given={Rohit},
-           giveni={R\bibinitperiod}}}%
-        {{hash=110add280d21d648defbda92acad33c0}{%
-           family={Rodriguez-Valera},
-           familyi={R\bibinithyphendelim V\bibinitperiod},
-           given={Francisco},
-           giveni={F\bibinitperiod}}}%
-        {{hash=4a177f8babbc75c09b1d649d3b34e826}{%
-           family={{McMahon}},
-           familyi={M\bibinitperiod},
-           given={Katherine\bibnamedelima D.},
-           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=67c16179b2a9093fdcd4e2662133d30d}{%
-           family={Toyama},
-           familyi={T\bibinitperiod},
-           given={Danyelle},
-           giveni={D\bibinitperiod}}}%
-        {{hash=003ac9da8371c7cb4f3324a5be580cea}{%
-           family={Rinke},
-           familyi={R\bibinitperiod},
-           given={Raquel},
-           giveni={R\bibinitperiod}}}%
-        {{hash=73d554d60f7d8495346ba16b3c6c3fac}{%
-           family={Cristina\bibnamedelimb Souza\bibnamedelimb de\bibnamedelima Oliveira},
-           familyi={C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim O\bibinitperiod},
-           given={Tereza},
-           giveni={T\bibinitperiod}}}%
-        {{hash=f7ddff67eeb29d4df0b512c5a83b89f7}{%
-           family={Wagner\bibnamedelima Garcia},
-           familyi={W\bibinitperiod\bibinitdelim G\bibinitperiod},
-           given={José},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d6d1d31996cb5aa8cb5d245a3d214992}{%
-           family={Pellon\bibnamedelimb de\bibnamedelima Miranda},
-           familyi={P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
-           given={Fernando},
-           giveni={F\bibinitperiod}}}%
-        {{hash=e1bef59f0ee8780857a9530fa95353e7}{%
-           family={Henrique-Silva},
-           familyi={H\bibinithyphendelim S\bibinitperiod},
-           given={Flavio},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{55881be13a81aed2ea4505894a994a6d}
-      \strng{fullhash}{d96cf8a6d8dac12d3c0731532e580908}
-      \strng{bibnamehash}{d96cf8a6d8dac12d3c0731532e580908}
-      \strng{authorbibnamehash}{d96cf8a6d8dac12d3c0731532e580908}
-      \strng{authornamehash}{55881be13a81aed2ea4505894a994a6d}
-      \strng{authorfullhash}{d96cf8a6d8dac12d3c0731532e580908}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{River water is a small percentage of the total freshwater on Earth but represents an essential resource for mankind. Microbes in rivers perform essential ecosystem roles including the mineralization of significant quantities of organic matter originating from terrestrial habitats. The Amazon river in particular is famous for its size and importance in the mobilization of both water and carbon out of its enormous basin. Here we present the first metagenomic study on the microbiota of this river. It presents many features in common with the other freshwater metagenome available (Lake Gatun in Panama) and much less similarity with marine samples. Among the microbial taxa found, the cosmopolitan freshwater {acI} lineage of the actinobacteria was clearly dominant. Group I Crenarchaea and the freshwater sister group of the marine {SAR}11 clade, {LD}12, were found alongside more exclusive and well known freshwater taxa such as Polynucleobacter. A metabolism-centric analysis revealed a disproportionate representation of pathways involved in heterotrophic carbon processing, as compared to those found in marine samples. In particular, these river microbes appear to be specialized in taking up and mineralizing allochthonous carbon derived from plant material.}
-      \field{issn}{1932-6203}
-      \field{journaltitle}{{PloS} One}
-      \field{number}{8}
-      \field{shortjournal}{{PLoS} {ONE}}
-      \field{title}{Metagenomics of the water column in the pristine upper course of the Amazon river}
-      \field{volume}{6}
-      \field{year}{2011}
-      \field{dateera}{ce}
-      \field{pages}{e23785}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1371/journal.pone.0023785
-      \endverb
-      \verb{file}
-      \verb Full Text:/home/millieginty/Zotero/storage/IAL56HTN/Ghai et al. - 2011 - Metagenomics of the water column in the pristine u.pdf:application/pdf
-      \endverb
-      \keyw{Fresh Water,Actinobacteria,Metagenomics,Rivers,Panama}
-    \endentry
   \enddatalist
+  \missing{riffle}
 \endrefsection
 \endinput
 
