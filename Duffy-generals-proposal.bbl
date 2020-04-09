@@ -696,51 +696,6 @@
       \verb http://www.sciencedirect.com/science/article/pii/S174183640402387X
       \endverb
     \endentry
-    \entry{muth_evaluating_nodate}{article}{}
-      \name{author}{2}{}{%
-        {{hash=91273479053d58f6579d67504267f81f}{%
-           family={Muth},
-           familyi={M\bibinitperiod},
-           given={Thilo},
-           giveni={T\bibinitperiod}}}%
-        {{hash=16627f25e359157fd9be9f0ad9738455}{%
-           family={Renard},
-           familyi={R\bibinitperiod},
-           given={Bernhard\bibnamedelima Y.},
-           giveni={B\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{39f403e320029a0c9bbdfcde7d4a7ba3}
-      \strng{fullhash}{39f403e320029a0c9bbdfcde7d4a7ba3}
-      \strng{bibnamehash}{39f403e320029a0c9bbdfcde7d4a7ba3}
-      \strng{authorbibnamehash}{39f403e320029a0c9bbdfcde7d4a7ba3}
-      \strng{authornamehash}{39f403e320029a0c9bbdfcde7d4a7ba3}
-      \strng{authorfullhash}{39f403e320029a0c9bbdfcde7d4a7ba3}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{While peptide identifications in mass spectrometry ({MS})-based shotgun proteomics are mostly obtained using database search methods, high-resolution spectrum data from modern {MS} instruments nowadays offer the prospect of improving the performance of computational de novo peptide sequencing. The major benefit of de novo sequencing is that it does not require a reference database to deduce full-length or partial tag-based peptide sequences directly from experimental tandem mass spectrometry spectra. Although various algorithms have been developed for automated de novo sequencing, the prediction accuracy of proposed solutions has been rarely evaluated in independent benchmarking studies. The main objective of this work is to provide a detailed evaluation on the performance of de novo sequencing algorithms on high-resolution data. For this purpose, we processed four experimental data sets acquired from different instrument types from collision-induced dissociation and higher energy collisional dissociation ({HCD}) fragmentation mode using the software packages Novor, {PEAKS} and {PepNovo}. Moreover, the accuracy of these algorithms is also tested on ground truth data based on simulated spectra generated from peak intensity prediction software. We found that Novor shows the overall best performance compared with {PEAKS} and {PepNovo} with respect to the accuracy of correct full peptide, tag-based and single-residue predictions. In addition, the same tool outpaced the commercial competitor {PEAKS} in terms of running time speedup by factors of around 12–17. Despite around 35\% prediction accuracy for complete peptide sequences on {HCD} data sets, taken as a whole, the evaluated algorithms perform moderately on experimental data but show a significantly better performance on simulated data (up to 84\% accuracy). Further, we describe the most frequently occurring de novo sequencing errors and evaluate the influence of missing fragment ion peaks and spectral noise on the accuracy. Finally, we discuss the potential of de novo sequencing for now becoming more widely used in the field.}
-      \field{journaltitle}{Briefings in Bioinformatics}
-      \field{shortjournal}{Brief Bioinform}
-      \field{shorttitle}{Evaluating de novo sequencing in proteomics}
-      \field{title}{Evaluating de novo sequencing in proteomics: already an accurate alternative to database-driven peptide identification?}
-      \field{urlday}{25}
-      \field{urlmonth}{7}
-      \field{urlyear}{2017}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1093/bib/bbx033
-      \endverb
-      \verb{file}
-      \verb Snapshot:/home/millieginty/Zotero/storage/GPHQ2Z8H/Evaluating-de-novo-sequencing-in-proteomics.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://academic.oup.com/bib/article/doi/10.1093/bib/bbx033/3076504/Evaluating-de-novo-sequencing-in-proteomics
-      \endverb
-      \verb{url}
-      \verb https://academic.oup.com/bib/article/doi/10.1093/bib/bbx033/3076504/Evaluating-de-novo-sequencing-in-proteomics
-      \endverb
-    \endentry
     \entry{chisholm_novel_1988}{article}{}
       \name{author}{6}{}{%
         {{hash=3164b99bfa6f92b2bee3e5b48bef7fe6}{%
@@ -780,8 +735,8 @@
       \strng{authorbibnamehash}{f24c943e4a338409515e1d4111b48c7a}
       \strng{authornamehash}{8e3b9b1545ef638e4d0c8fb0273818f0}
       \strng{authorfullhash}{f24c943e4a338409515e1d4111b48c7a}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The recent discovery of photosynthetic picoplankton has changed our understanding of marine food webs1. Both prokaryotic2,3 and eukaryotic4,5 species occur in most of the world's oceans and account for a significant proportion of global productivity6. Using shipboard flow cytometry, we have identified a new group of picoplankters which are extremely abundant, and barely visible using traditional microscopic techniques. These cells are smaller than the coccoid cyanobacteria and reach concentrations greater than 105 cells ml–1 in the deep euphotic zone. They fluoresce red and contain a divinyl chlorophyll a-like pigment, as well as chlorophyll b, α-carotene, and zeaxanthin. This unusual combination of pigments, and a distinctive prokaryotic ultrastructure, suggests that these picoplankters are free-living relatives of Prochloron7. They differ from previously reported prochlorophytes—the putative ancestors of the chloroplasts of higher plants—in that they contain α-carotene rather than β-carotene and contain a divinyl chlorophyll a-like pigment as the dominant chlorophyll.}
@@ -847,8 +802,8 @@
       \strng{authorbibnamehash}{52eb9ab17855e2f489ccb31905d67d5f}
       \strng{authornamehash}{aa0eb674a2e88bd99e61ac58f2d3f6ca}
       \strng{authorfullhash}{52eb9ab17855e2f489ccb31905d67d5f}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background The marine cyanobacterium Prochlorococcus marinus, having multiple ecotypes of distinct genotypic/phenotypic traits and being the first documented example of genome shrinkage in free-living organisms, offers an ideal system for studying niche-driven molecular micro-diversity in closely related microbes. The present study, through an extensive comparative analysis of various genomic/proteomic features of 6 high light ({HL}) and 6 low light ({LL}) adapted strains, makes an attempt to identify molecular determinants associated with their vertical niche partitioning. Results Pronounced strand-specific asymmetry in synonymous codon usage is observed exclusively in {LL} strains. Distinct dinucleotide abundance profiles are exhibited by 2 {LL} strains with larger genomes and G+C-content ≈ 50\% (group {LLa}), 4 {LL} strains having reduced genomes and G+C-content ≈ 35-37\% (group {LLb}), and 6 {HL} strains. Taking into account the emergence of {LLa}, {LLb} and {HL} strains (based on 16S {rRNA} phylogeny), a gradual increase in average aromaticity, {pI} values and beta- \& coil-forming propensities and a decrease in mean hydrophobicity, instability indices and helix-forming propensities of core proteins are observed. Greater variations in orthologous gene repertoire are found between {LLa} and {LLb} strains, while higher number of positively selected genes exist between {LL} and {HL} strains. Conclusion Strains of different Prochlorococcus groups are characterized by distinct compositional, physicochemical and structural traits that are not mere remnants of a continuous genetic drift, but are potential outcomes of a grand scheme of niche-oriented stepwise diversification, that might have driven them chronologically towards greater stability/fidelity and invoked upon them a special ability to inhabit diverse oceanic environments.}
@@ -1081,6 +1036,58 @@
       \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2010.55.4.1790
       \endverb
     \endentry
+    \entry{wolfe_first_2006}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ec6f9bf61232b1b5715eab171c8ed028}{%
+           family={Wolfe},
+           familyi={W\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c2f6be7d7eb679a859bf8bc49a3137c1}{%
+           family={Edlund},
+           familyi={E\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1a2bcd8f599692bc4a70e3e49492f63f}{%
+           family={Sweet},
+           familyi={S\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=07838aaa08a29d6ffcc18abb9d537284}{%
+           family={Creighton},
+           familyi={C\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2df23f9a48401aecf74501b6d40dcbbe}
+      \strng{fullhash}{3ad9edd1e53155114d08033465b774f8}
+      \strng{bibnamehash}{3ad9edd1e53155114d08033465b774f8}
+      \strng{authorbibnamehash}{3ad9edd1e53155114d08033465b774f8}
+      \strng{authornamehash}{2df23f9a48401aecf74501b6d40dcbbe}
+      \strng{authorfullhash}{3ad9edd1e53155114d08033465b774f8}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Post-eruptive lacustrine sediments that infill a Middle Eo-cene kimberlitic diatreme near Lac de Gras (Northwest Ter-ritories, Canada) have spectacular preservation of diatom microfossils. A single undiagnosed species belonging to the genus Aulacoseira is abundant in this material and re-veals, in addition to the full complement of siliceous struc-tures comprising the frustule, an array of soft parts that hitherto have been unavailable for study in diatoms of this age. These features include the velar complex, which lines the interior of valves, layered internal membranes, lamel-late plastid fragments with pyrenoid-like inclusions, and extracellular mucilagenous bodies. Both ultrastructural and cytoplasmic characters have pronounced affinities with extant congeneric taxa, with an especially close resem-blance to the resting cells observed in living Aulacoseira. These observations suggest that modern cellular organiza-tion and associated ecological adaptations were present ear-ly in the history of nonmarine aulacoseiroid diatoms, im-plying that prolonged evolutionary stasis has characterized the ecologically important genus Aulacoseira.}
+      \field{day}{26}
+      \field{journaltitle}{{PALAIOS}}
+      \field{month}{6}
+      \field{shortjournal}{{PALAIOS}}
+      \field{shorttitle}{A First Account of Organelle Preservation in Eocene Nonmarine Diatoms}
+      \field{title}{A First Account of Organelle Preservation in Eocene Nonmarine Diatoms: Observations and Paleobiological Implications}
+      \field{volume}{21}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{298\bibrangedash 304}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.2110/palo.2005.p05-14e
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/C6S442LL/Wolfe et al. - 2006 - A First Account of Organelle Preservation in Eocen.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{abdulla_accumulation_2018}{article}{}
       \name{author}{3}{}{%
         {{hash=28688d8226b22db45cd4e15776dc8493}{%
@@ -1139,6 +1146,57 @@
       \verb http://www.sciencedirect.com/science/article/pii/S0016703717307342
       \endverb
       \keyw{Anoxic sediment,Dissolved organic matter,Peptides,deaminated peptides,Pore water,Santa Barbara Basin}
+    \endentry
+    \entry{dauwe_amino_1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6006f8556f1396f745bfe768ec61e39f}{%
+           family={Dauwe},
+           familyi={D\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod}}}%
+        {{hash=25fcee9ff497415a2a94a79a294975b9}{%
+           family={Middelburg},
+           familyi={M\bibinitperiod},
+           given={Jack\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e933e6ab54f7525fafd88dd7a4ee4054}
+      \strng{fullhash}{e933e6ab54f7525fafd88dd7a4ee4054}
+      \strng{bibnamehash}{e933e6ab54f7525fafd88dd7a4ee4054}
+      \strng{authorbibnamehash}{e933e6ab54f7525fafd88dd7a4ee4054}
+      \strng{authornamehash}{e933e6ab54f7525fafd88dd7a4ee4054}
+      \strng{authorfullhash}{e933e6ab54f7525fafd88dd7a4ee4054}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sediment cores from six stations in the eastern North Sea were analyzed for protein amino acids, the nonprotein amino acids β-alanine and γ- aminobutyric acid and the hexosamines galactosamine and glucosamine, and bulk parameters (organic carbon, nitrogen, total hydrolyzable amino acids and carbohydrates) in order to establish the degradation state of sedimentary organic matter. The study sites were selected on the basis of their different physical settings and macrofaunal communities so that a broad quality range in the organic matter would likely be covered. To test if the molecular parameters provide a robust matrix for quality determination, we integrated our results with complementary literature data ranging from marine source organisms to deep-sea environments. A principal component analysis based on the mole percent contribution of amino acids show4 that there are systematic variations in the amino acid spectra as a consequence of degradation of organic matter. Comparison with more established quality parameters such as hexosamines confirmed that amino acids reflect the degradation state of the organic matter. The amino acids glycine, serine, and threonine were enriched in the more degraded material, and others, such as phenylalanine, glutamic acid, tyrosine, leucine, and isoleucinc, became depleted with increasing degradation state. Selective preservation of structural compounds (diatom cell walls, chitinous organic matter) vs. preferential breakdown of cell plasma material appears to be the reason for the contrastin,; behavior of these molecular compounds. Some of the essential amino acids for macrofauna nutrition (arginine, methionine, and histidine) occurred in lower concentrations in the North Sea sediments compared to organism tissue and therefore may be limiting to growth of deposit-feeders.}
+      \field{issn}{1939-5590}
+      \field{journaltitle}{Limnology and Oceanography}
+      \field{langid}{english}
+      \field{number}{5}
+      \field{title}{Amino acids and hexosamines as indicators of organic matter degradation state in North Sea sediments}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{43}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{782\bibrangedash 798}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.4319/lo.1998.43.5.0782
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/2RIG6Y2Z/Dauwe and Middelburg - 1998 - Amino acids and hexosamines as indicators of organ.pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/DX7NWT86/lo.1998.43.5.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1998.43.5.0782
+      \endverb
+      \verb{url}
+      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1998.43.5.0782
+      \endverb
     \endentry
     \entry{keeling_marine_2014}{article}{}
       \name{author}{81}{}{%
@@ -1894,8 +1952,8 @@
       \strng{authorbibnamehash}{9eb1d5ec4adcb07e85bc6f875ef995ee}
       \strng{authornamehash}{b9fcf3c038530daf2f7ab1e0b68bf8ba}
       \strng{authorfullhash}{9eb1d5ec4adcb07e85bc6f875ef995ee}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A major impediment to understanding long-term changes in the marine nitrogen (N) cycle is the persistent uncertainty about the rates, distribution, and sensitivity of its largest fluxes in the modern ocean. We use a global ocean circulation model to obtain the first 3-D estimate of marine denitrification rates that is maximally consistent with available observations of nitrate deficits and the nitrogen isotopic ratio of oceanic nitrate. We find a global rate of marine denitrification in suboxic waters and sediments of 120–240 Tg N yr−1, which is lower than many other recent estimates. The difference stems from the ability to represent the 3-D spatial structure of suboxic zones, where denitrification rates of 50–77 Tg N yr−1 result in up to 50\% depletion of nitrate. This depletion reduces the effect of local isotopic enrichment on the rest of the ocean, allowing the N isotope ratio of oceanic nitrate to be achieved with a sedimentary denitrification rate about 1.3–2.3 times that of suboxic zones. This balance of N losses between sediments and suboxic zones is shown to obey a simple relationship between isotope fractionation and the degree of nitrate consumption in the core of the suboxic zones. The global denitrification rates derived here suggest that the marine nitrogen budget is likely close to balanced.}
@@ -2242,6 +2300,7 @@
       \strng{authorbibnamehash}{2b67ca7b735ca9a171d9a57937b60a2e}
       \strng{authornamehash}{c773e6b11537e486e8bbf436baae3c12}
       \strng{authorfullhash}{2b67ca7b735ca9a171d9a57937b60a2e}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
@@ -2622,8 +2681,8 @@
       \strng{authorbibnamehash}{1c25befe9d35b626346363c6ab4f6757}
       \strng{authornamehash}{1c25befe9d35b626346363c6ab4f6757}
       \strng{authorfullhash}{1c25befe9d35b626346363c6ab4f6757}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Nucleic Acids Research (2017) 45: D158–D169, https://doi-org.offcampus.lib.washington.edu/10.1093/nar/gkw1099}
@@ -2656,37 +2715,6 @@
       \endverb
       \verb{url}
       \verb https://academic-oup-com.offcampus.lib.washington.edu/nar/article/46/5/2699/4841658
-      \endverb
-    \endentry
-    \entry{Cole2007Plumbing}{online}{}
-      \name{author}{1}{}{%
-        {{hash=a3b8128338fdd566e362d36fc5188e2d}{%
-           family={Cole},
-           familyi={C\bibinitperiod},
-           given={J.\bibnamedelimi J.},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{a3b8128338fdd566e362d36fc5188e2d}
-      \strng{fullhash}{a3b8128338fdd566e362d36fc5188e2d}
-      \strng{bibnamehash}{a3b8128338fdd566e362d36fc5188e2d}
-      \strng{authorbibnamehash}{a3b8128338fdd566e362d36fc5188e2d}
-      \strng{authornamehash}{a3b8128338fdd566e362d36fc5188e2d}
-      \strng{authorfullhash}{a3b8128338fdd566e362d36fc5188e2d}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Plumbing the Global Carbon Cycle: Integrating Inland Waters into the Terrestrial Carbon Budget}
-      \field{urlday}{2}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{year}{2007}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://link-springer-com.offcampus.lib.washington.edu/article/10.1007/s10021-006-9013-8
-      \endverb
-      \verb{url}
-      \verb https://link-springer-com.offcampus.lib.washington.edu/article/10.1007/s10021-006-9013-8
       \endverb
     \endentry
     \entry{butman_significant_2011}{article}{}
@@ -2808,368 +2836,6 @@
       \endverb
       \verb{url}
       \verb http://www.nature.com/articles/416617a
-      \endverb
-    \endentry
-    \entry{battin_boundless_2009}{article}{}
-      \name{author}{6}{}{%
-        {{hash=8dfdd3a9319e734bde2ad4a6cb77331f}{%
-           family={Battin},
-           familyi={B\bibinitperiod},
-           given={Tom\bibnamedelima J.},
-           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=3bbbd8b1b9106b934d450150dae7d08c}{%
-           family={Luyssaert},
-           familyi={L\bibinitperiod},
-           given={Sebastiaan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=a530f24239ea30bea75b9212b1bd4fe1}{%
-           family={Kaplan},
-           familyi={K\bibinitperiod},
-           given={Louis\bibnamedelima A.},
-           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=a7ccbaf878d13cf0f39db4723791c6f4}{%
-           family={Aufdenkampe},
-           familyi={A\bibinitperiod},
-           given={Anthony\bibnamedelima K.},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=b80def2e9d954a1c7da21c41723f91e4}{%
-           family={Richter},
-           familyi={R\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-        {{hash=97cf522ae7096624a1b99aea523c44d1}{%
-           family={Tranvik},
-           familyi={T\bibinitperiod},
-           given={Lars\bibnamedelima J.},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{7cd88f826381106ba549ad05c24e41d4}
-      \strng{fullhash}{48b8c712043c3489239e5a7b63b97ee5}
-      \strng{bibnamehash}{48b8c712043c3489239e5a7b63b97ee5}
-      \strng{authorbibnamehash}{48b8c712043c3489239e5a7b63b97ee5}
-      \strng{authornamehash}{7cd88f826381106ba549ad05c24e41d4}
-      \strng{authorfullhash}{48b8c712043c3489239e5a7b63b97ee5}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The terrestrial biosphere is assumed to take up most of the carbon on land. However, it is becoming clear that inland waters process large amounts of organic carbon and must be considered in strategies to mitigate climate change.}
-      \field{issn}{1752-0908}
-      \field{journaltitle}{Nature Geoscience}
-      \field{langid}{english}
-      \field{month}{9}
-      \field{number}{9}
-      \field{shortjournal}{Nature Geosci}
-      \field{title}{The boundless carbon cycle}
-      \field{urlday}{3}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{volume}{2}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{598\bibrangedash 600}
-      \range{pages}{3}
-      \verb{doi}
-      \verb 10.1038/ngeo618
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/millieginty/Zotero/storage/MXB2ANJV/Battin et al. - 2009 - The boundless carbon cycle.pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/JPXQQ9SA/ngeo618.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://www.nature.com/articles/ngeo618
-      \endverb
-      \verb{url}
-      \verb http://www.nature.com/articles/ngeo618
-      \endverb
-    \endentry
-    \entry{tranvik_lakes_2009}{article}{}
-      \name{author}{31}{}{%
-        {{hash=97cf522ae7096624a1b99aea523c44d1}{%
-           family={Tranvik},
-           familyi={T\bibinitperiod},
-           given={Lars\bibnamedelima J.},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=de278fafefd857039c738ee81b4766c5}{%
-           family={Downing},
-           familyi={D\bibinitperiod},
-           given={John\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=a34728b7bd434a8809ed667d83319a2a}{%
-           family={Cotner},
-           familyi={C\bibinitperiod},
-           given={James\bibnamedelima B.},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=2fe2b5a772c570efb58b64274d85a8ae}{%
-           family={Loiselle},
-           familyi={L\bibinitperiod},
-           given={Steven\bibnamedelima A.},
-           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=7706717a1c9866db0f515f607ba6b82f}{%
-           family={Striegl},
-           familyi={S\bibinitperiod},
-           given={Robert\bibnamedelima G.},
-           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=a7c61e308a9356c5d7c157ebfefa23e1}{%
-           family={Ballatore},
-           familyi={B\bibinitperiod},
-           given={Thomas\bibnamedelima J.},
-           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=3a3fa7cad8a36f8ba3d949a2db17dd87}{%
-           family={Dillon},
-           familyi={D\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=4cdd2db5379cb9cf44cbda5021a29fdc}{%
-           family={Finlay},
-           familyi={F\bibinitperiod},
-           given={Kerri},
-           giveni={K\bibinitperiod}}}%
-        {{hash=0d82da7ba38586598a8169993dadf29e}{%
-           family={Fortino},
-           familyi={F\bibinitperiod},
-           given={Kenneth},
-           giveni={K\bibinitperiod}}}%
-        {{hash=c0106506bda52367c24508176ad6e63d}{%
-           family={Knoll},
-           familyi={K\bibinitperiod},
-           given={Lesley\bibnamedelima B.},
-           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=cf3c8db53374e93edefef5b907d22614}{%
-           family={Kortelainen},
-           familyi={K\bibinitperiod},
-           given={Pirkko\bibnamedelima L.},
-           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=108800bc0a0cd306e9550b78c66e4248}{%
-           family={Kutser},
-           familyi={K\bibinitperiod},
-           given={Tiit},
-           giveni={T\bibinitperiod}}}%
-        {{hash=1da156ee33692d68abd243eb16e8f08f}{%
-           family={Larsen},
-           familyi={L\bibinitperiod},
-           given={Soren},
-           giveni={S\bibinitperiod}}}%
-        {{hash=fc2b44a07fbc82b458a99d41c17380d7}{%
-           family={Laurion},
-           familyi={L\bibinitperiod},
-           given={Isabelle},
-           giveni={I\bibinitperiod}}}%
-        {{hash=72498ebfea669df35eeba51649976c12}{%
-           family={Leech},
-           familyi={L\bibinitperiod},
-           given={Dina\bibnamedelima M.},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=3683e215e13132da025888a4dacd8151}{%
-           family={{McCallister}},
-           familyi={M\bibinitperiod},
-           given={S.\bibnamedelimi Leigh},
-           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=fb537ebcb77c8167555c10434d746006}{%
-           family={{McKnight}},
-           familyi={M\bibinitperiod},
-           given={Diane\bibnamedelima M.},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=602ba10fe7e9b04d96a95561106d1c90}{%
-           family={Melack},
-           familyi={M\bibinitperiod},
-           given={John\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=e7d8743e38058d8d0b4d780a29aae037}{%
-           family={Overholt},
-           familyi={O\bibinitperiod},
-           given={Erin},
-           giveni={E\bibinitperiod}}}%
-        {{hash=4d1a7f00c3ad8302fc96b4afcfd4876a}{%
-           family={Porter},
-           familyi={P\bibinitperiod},
-           given={Jason\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=df47d12e4df87ebea62f380f579b5fdb}{%
-           family={Prairie},
-           familyi={P\bibinitperiod},
-           given={Yves},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=24d63381d8b8bd01ce0e838f1ea0406d}{%
-           family={Renwick},
-           familyi={R\bibinitperiod},
-           given={William\bibnamedelima H.},
-           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=272b4ca6ba843426f1fa5938ca6889f3}{%
-           family={Roland},
-           familyi={R\bibinitperiod},
-           given={Fabio},
-           giveni={F\bibinitperiod}}}%
-        {{hash=0c8a6a24996b435c65be965580c77016}{%
-           family={Sherman},
-           familyi={S\bibinitperiod},
-           given={Bradford\bibnamedelima S.},
-           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=5b5daa8f57b2eab21055e7b063d68dea}{%
-           family={Schindler},
-           familyi={S\bibinitperiod},
-           given={David\bibnamedelima W.},
-           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=7cea17b9b3f8dba9ab5ba52f9c394bd2}{%
-           family={Sobek},
-           familyi={S\bibinitperiod},
-           given={Sebastian},
-           giveni={S\bibinitperiod}}}%
-        {{hash=778da930a7696ffa3201223ffcb43e59}{%
-           family={Tremblay},
-           familyi={T\bibinitperiod},
-           given={Alain},
-           giveni={A\bibinitperiod}}}%
-        {{hash=686141d0ebb2c5b6c855075669a964e6}{%
-           family={Vanni},
-           familyi={V\bibinitperiod},
-           given={Michael\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=a228f5c1211799d82529eede50acd184}{%
-           family={Verschoor},
-           familyi={V\bibinitperiod},
-           given={Antonie\bibnamedelima M.},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=147831e31d8183ab85c6fae59ce68e71}{%
-           family={Wachenfeldt},
-           familyi={W\bibinitperiod},
-           given={Eddie\bibnamedelima von},
-           giveni={E\bibinitperiod\bibinitdelim v\bibinitperiod}}}%
-        {{hash=e68b6e4c3fd3df3163b357e8ba40533b}{%
-           family={Weyhenmeyer},
-           familyi={W\bibinitperiod},
-           given={Gesa\bibnamedelima A.},
-           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{a3e5d4b679c83951c177d0b5926ec89e}
-      \strng{fullhash}{c105a32a8fcf9a2a59b975c411020f36}
-      \strng{bibnamehash}{a3e5d4b679c83951c177d0b5926ec89e}
-      \strng{authorbibnamehash}{a3e5d4b679c83951c177d0b5926ec89e}
-      \strng{authornamehash}{a3e5d4b679c83951c177d0b5926ec89e}
-      \strng{authorfullhash}{c105a32a8fcf9a2a59b975c411020f36}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We explore the role of lakes in carbon cycling and global climate, examine the mechanisms influencing carbon pools and transformations in lakes, and discuss how the metabolism of carbon in the inland waters is likely to change in response to climate. Furthermore, we project changes as global climate change in the abundance and spatial distribution of lakes in the biosphere, and we revise the estimate for the global extent of carbon transformation in inland waters. This synthesis demonstrates that the global annual emissions of carbon dioxide from inland waters to the atmosphere are similar in magnitude to the carbon dioxide uptake by the oceans and that the global burial of organic carbon in inland water sediments exceeds organic carbon sequestration on the ocean floor. The role of inland waters in global carbon cycling and climate forcing may be changed by human activities, including construction of impoundments, which accumulate large amounts of carbon in sediments and emit large amounts of methane to the atmosphere. Methane emissions are also expected from lakes on melting permafrost. The synthesis presented here indicates that (1) inland waters constitute a significant component of the global carbon cycle, (2) their contribution to this cycle has significantly changed as a result of human activities, and (3) they will continue to change in response to future climate change causing decreased as well as increased abundance of lakes as well as increases in the number of aquatic impoundments.}
-      \field{issn}{1939-5590}
-      \field{journaltitle}{Limnology and Oceanography}
-      \field{langid}{english}
-      \field{number}{6}
-      \field{title}{Lakes and reservoirs as regulators of carbon cycling and climate}
-      \field{urlday}{3}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{volume}{54}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{2298\bibrangedash 2314}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.4319/lo.2009.54.6_part_2.2298
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/millieginty/Zotero/storage/TFJ98CVD/Tranvik et al. - 2009 - Lakes and reservoirs as regulators of carbon cycli.pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/5U8Y8F4G/lo.2009.54.6_part_2.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2009.54.6_part_2.2298
-      \endverb
-      \verb{url}
-      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.2009.54.6_part_2.2298
-      \endverb
-    \endentry
-    \entry{canadell_contributions_2007}{article}{}
-      \name{author}{10}{}{%
-        {{hash=7c3cb5061e583e114447d97a09d0a877}{%
-           family={Canadell},
-           familyi={C\bibinitperiod},
-           given={Josep\bibnamedelima G.},
-           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=734ce414c40ed8cd62f27c0748fae494}{%
-           family={Le\bibnamedelima Quéré},
-           familyi={L\bibinitperiod\bibinitdelim Q\bibinitperiod},
-           given={Corinne},
-           giveni={C\bibinitperiod}}}%
-        {{hash=395688f604c151053b585e2323d88a17}{%
-           family={Raupach},
-           familyi={R\bibinitperiod},
-           given={Michael\bibnamedelima R.},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=d780c3f2c95e8f6d9493cfdf05b30bc7}{%
-           family={Field},
-           familyi={F\bibinitperiod},
-           given={Christopher\bibnamedelima B.},
-           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=7e014654c4d516487cef88386c277e67}{%
-           family={Buitenhuis},
-           familyi={B\bibinitperiod},
-           given={Erik\bibnamedelima T.},
-           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=6e67f77fe4702964e6cd500a96516c8a}{%
-           family={Ciais},
-           familyi={C\bibinitperiod},
-           given={Philippe},
-           giveni={P\bibinitperiod}}}%
-        {{hash=82c630780d2867e1c716b27a9dcbd254}{%
-           family={Conway},
-           familyi={C\bibinitperiod},
-           given={Thomas\bibnamedelima J.},
-           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=02038491e441fcb63bc77849d86b5677}{%
-           family={Gillett},
-           familyi={G\bibinitperiod},
-           given={Nathan\bibnamedelima P.},
-           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=1764016b20f5b2ac342d6107469f3f8f}{%
-           family={Houghton},
-           familyi={H\bibinitperiod},
-           given={R.\bibnamedelimi A.},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=499fb39eb6bace4fbd5176419e2c990d}{%
-           family={Marland},
-           familyi={M\bibinitperiod},
-           given={Gregg},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{2ca3c491214d5448779ff63ce1167090}
-      \strng{fullhash}{cd18b9e860116726f3bc5417d8490545}
-      \strng{bibnamehash}{cd18b9e860116726f3bc5417d8490545}
-      \strng{authorbibnamehash}{cd18b9e860116726f3bc5417d8490545}
-      \strng{authornamehash}{2ca3c491214d5448779ff63ce1167090}
-      \strng{authorfullhash}{cd18b9e860116726f3bc5417d8490545}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The growth rate of atmospheric carbon dioxide ({CO}2), the largest human contributor to human-induced climate change, is increasing rapidly. Three processes contribute to this rapid increase. Two of these processes concern emissions. Recent growth of the world economy combined with an increase in its carbon intensity have led to rapid growth in fossil fuel {CO}2 emissions since 2000: comparing the 1990s with 2000–2006, the emissions growth rate increased from 1.3\% to 3.3\% y−1. The third process is indicated by increasing evidence (P = 0.89) for a long-term (50-year) increase in the airborne fraction ({AF}) of {CO}2 emissions, implying a decline in the efficiency of {CO}2 sinks on land and oceans in absorbing anthropogenic emissions. Since 2000, the contributions of these three factors to the increase in the atmospheric {CO}2 growth rate have been ≈65 ± 16\% from increasing global economic activity, 17 ± 6\% from the increasing carbon intensity of the global economy, and 18 ± 15\% from the increase in {AF}. An increasing {AF} is consistent with results of climate–carbon cycle models, but the magnitude of the observed signal appears larger than that estimated by models. All of these changes characterize a carbon cycle that is generating stronger-than-expected and sooner-than-expected climate forcing.}
-      \field{day}{20}
-      \field{issn}{0027-8424}
-      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
-      \field{month}{11}
-      \field{number}{47}
-      \field{shortjournal}{Proc Natl Acad Sci U S A}
-      \field{title}{Contributions to accelerating atmospheric {CO}2 growth from economic activity, carbon intensity, and efficiency of natural sinks}
-      \field{urlday}{3}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{volume}{104}
-      \field{year}{2007}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{18866\bibrangedash 18870}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1073/pnas.0702737104
-      \endverb
-      \verb{file}
-      \verb PubMed Central Full Text PDF:/home/millieginty/Zotero/storage/QVVFIX7J/Canadell et al. - 2007 - Contributions to accelerating atmospheric CO2 grow.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2141868/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2141868/
       \endverb
     \endentry
     \entry{mayorga_young_2005}{article}{}
@@ -3447,244 +3113,6 @@
       \endverb
       \keyw{aquatic,dissolved organic carbon,litter leachate,priming,reactivity,remineralization}
     \endentry
-    \entry{hedges_fluxes_1988}{article}{}
-      \name{author}{3}{}{%
-        {{hash=3c6dc29cc881a024d222d00461d8b816}{%
-           family={Hedges},
-           familyi={H\bibinitperiod},
-           given={John\bibnamedelima I.},
-           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{hash=94ede5a5ea7c867ff9e4eadb8e3a904f}{%
-           family={Clark},
-           familyi={C\bibinitperiod},
-           given={Wayne\bibnamedelima A.},
-           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=7ec1601b98df8628ff94ef4b4b7e8fd2}{%
-           family={Come},
-           familyi={C\bibinitperiod},
-           given={Gregory\bibnamedelima L.},
-           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{0ae9df868f7db6f0412d1c646cafbe39}
-      \strng{fullhash}{0ae9df868f7db6f0412d1c646cafbe39}
-      \strng{bibnamehash}{0ae9df868f7db6f0412d1c646cafbe39}
-      \strng{authorbibnamehash}{0ae9df868f7db6f0412d1c646cafbe39}
-      \strng{authornamehash}{0ae9df868f7db6f0412d1c646cafbe39}
-      \strng{authorfullhash}{0ae9df868f7db6f0412d1c646cafbe39}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Vertical fluxes of bulk particulate material, organic carbon, nitrogen, lignin-derived phenols, and neutral sugars through the water column and into surface sediments of Dabob Bay, Washington, were determined monthly for 1 yr by sediment trap deployments at 30, 60, and 90 m at a site 110 m deep. Vertical fluxes of sinking bulk particulate material in this marine bay were elevated during winter and increased in consistent proportion to sediment trap deployment depth throughout the year. Although annual average particle fluxes at 30 and 60 m bracketed the mean accumulation rate of the underlying sediment, the flux at 90 m was higher by a factor of 2 due to resuspension, horizontal advection, or both. The monthly fluxes of lignin-derived phenols paralleled those of total particulate material, indicating a common riverine origin. The annual average fluxes of vanillyl and cinnamyl phenols through the water column closely matched the corresponding accumulation rates in the underlying sediment, whereas about a third of the total syringyl phenol input was degraded at the water- sediment interface. Although p-hydroxyacetophenone exhibited a stability typical of lignin-derived phenols, the distinctly higher reactivities ({>} 60\% degradation) of p-hydroxybenzaldehyde and p-hydroxybenzoic acid indicate a predominantly nonlignin source. On average, 60 and 70\%, respectively, of the total particulate organic carbon and nitrogen and 65–75\% of all neutral sugars settling through the midwater column were degraded at the water- sediment interface. The elemental and carbohydrate composition of the degraded material was similar to that of local net plankton except for higher percentages of glucose and total neutral sugars. Land-derived organic material accounted for about one-third of the total organic carbon passing through the midwater column and two-thirds of the organic carbon accumulating in the underlying sediments. The amounts of plankton-derived organic matter sinking through the midwater column and being preserved in the sediments below corresponded to 14 and 3\% of the annual mean primary productivity. Plankton-derived organic matter exhibited about 5 times the reactivity of local land-derived organic matter at the water-sediment interface of Dabob Bay and supported essentially all of the benthic respiration.}
-      \field{issn}{1939-5590}
-      \field{journaltitle}{Limnology and Oceanography}
-      \field{langid}{english}
-      \field{number}{5}
-      \field{title}{Fluxes and reactivities of organic matter in a coastal marine bay}
-      \field{urlday}{7}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{volume}{33}
-      \field{year}{1988}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1137\bibrangedash 1152}
-      \range{pages}{16}
-      \verb{doi}
-      \verb 10.4319/lo.1988.33.5.1137
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/millieginty/Zotero/storage/6JGUULUY/Hedges et al. - 1988 - Fluxes and reactivities of organic matter in a coa.pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/ZDCIDCIS/lo.1988.33.5.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1988.33.5.1137
-      \endverb
-      \verb{url}
-      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1988.33.5.1137
-      \endverb
-    \endentry
-    \entry{gough_terrestrial_1993}{article}{}
-      \name{author}{4}{}{%
-        {{hash=ea5ddde60f748bc7343f01721036067e}{%
-           family={Gough},
-           familyi={G\bibinitperiod},
-           given={Mark\bibnamedelima A.},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=d4a1e4272de1c86736a71692495e48a2}{%
-           family={Fauzi},
-           familyi={F\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=dc1cfa30b88e4fb6c1fa79e21eebdff7}{%
-           family={Mantoura},
-           familyi={M\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=4d418ec89b4cd68017a981904d59ad89}{%
-           family={Preston},
-           familyi={P\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{709118a65b8fc79f13f4ed815942b99f}
-      \strng{fullhash}{f3575dbd02a34c8a3d4f946ba86da8b3}
-      \strng{bibnamehash}{f3575dbd02a34c8a3d4f946ba86da8b3}
-      \strng{authorbibnamehash}{f3575dbd02a34c8a3d4f946ba86da8b3}
-      \strng{authornamehash}{709118a65b8fc79f13f4ed815942b99f}
-      \strng{authorfullhash}{f3575dbd02a34c8a3d4f946ba86da8b3}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The vascular land plant biopolymers lignin and cutin were surveyed in the surface sediments of coastal and open ocean waters by controlled alkaline {CuO} oxidation/reaction. Two contrasting oceanic regimes were studied: the northwest Mediterranean ({NWM}) Sea, which receives significant particulate terrigenous debris through riverine discharge; and the northeast Atlantic ({NEA}) Ocean, with poorly characterised terrestrial carbon inputs. In the {NWM} products of lignin and cutin co-occurred at all stations, elevated levels (ca. 0.5–3.0 mg lignin phenols/100 mg organic carbon; ca. 0.01–0.09 mg cutin acids/100 mg organic carbon) were observed for near-shore deltaic and shelf sediments. The influence of terrestrial land plant inputs extended across the shelf and through the slope to the abyssal plain, providing molecular evidence for advective offshore transfer of terrestrial carbon. Mass balance estimates for the basin suggest riverine inputs account for the majority of surface sedimentary lignin/cutin, most of which ({>}90\%) is deposited on the shelf. Products of {CuO} oxidation of lignin and cutin were also detected in {NEA} surface sediments, at levels comparable to those observed for the {NWM} continental slope, and were detectable at low concentrations (ca. 0.5 μgg−1 in the sediments of the abyssal plains ({>}4,000 m depth). While atmospheric deposition of lignin/cutin-derived material cannot be discounted in this open ocean system, lateral advective transfer of enriched shelf sediments is inferred as a possible transport process. A progressive enrichment in cutin-derived material relative to lignin was observed offshore, with evidence of an increase in the degree of oxidative alteration of lignin residues. To account for these observations, preferential offshore transport of finer and more degraded material is proposed. Nonspecific oxidation products dominated the gas chromatograms of {NEA} sediments, which appear to originate from marine sources of sedimentary organic carbon. Preliminary mass balance calculations applied to the global ocean margin suggest riverine sources of both particulate lignin and cutin are important and that most ({>}95\%) deposition of recognisable land plant biopolymers occurs in shelf seas.}
-      \field{day}{1}
-      \field{issn}{0016-7037}
-      \field{journaltitle}{Geochimica et Cosmochimica Acta}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{number}{5}
-      \field{shortjournal}{Geochimica et Cosmochimica Acta}
-      \field{title}{Terrestrial plant biopolymers in marine sediments}
-      \field{urlday}{7}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{volume}{57}
-      \field{year}{1993}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{945\bibrangedash 964}
-      \range{pages}{20}
-      \verb{doi}
-      \verb 10.1016/0016-7037(93)90032-R
-      \endverb
-      \verb{file}
-      \verb ScienceDirect Snapshot:/home/millieginty/Zotero/storage/D2DI7EGT/001670379390032R.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/001670379390032R
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/001670379390032R
-      \endverb
-    \endentry
-    \entry{opsahl_distribution_1997}{article}{}
-      \name{author}{2}{}{%
-        {{hash=416b98c18e7570a216a11bd6ae05edb4}{%
-           family={Opsahl},
-           familyi={O\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod}}}%
-        {{hash=c8fc71acabccee889e31f14250b5b3e1}{%
-           family={Benner},
-           familyi={B\bibinitperiod},
-           given={Ronald},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{d40118141f54223ab6b46d48fdc1bfe4}
-      \strng{fullhash}{d40118141f54223ab6b46d48fdc1bfe4}
-      \strng{bibnamehash}{d40118141f54223ab6b46d48fdc1bfe4}
-      \strng{authorbibnamehash}{d40118141f54223ab6b46d48fdc1bfe4}
-      \strng{authornamehash}{d40118141f54223ab6b46d48fdc1bfe4}
-      \strng{authorfullhash}{d40118141f54223ab6b46d48fdc1bfe4}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Terrigenous dissolved organic matter ({DOM}) is continuously discharged by rivers into the ocean, yet its distribution and reactivity within ocean basins remain poorly defined aspects of the global carbon cycle1. Direct evidence for the presence of terrigenous {DOM} in the open ocean has been found only in dissolved humic substances isolated from surface waters of the eastern equatorial Pacific Ocean2. Here we report the detection of low concentrations of lignin—a biopolymer found only in terrestrial vegetation—in {DOM} collected from the Pacific and Atlantic oceans, indicating that terrigenous {DOM} is distributed throughout the ocean water column. Higher lignin concentrations in Atlantic waters, relative to Pacific waters, reflect terrigenous {DOM} concentrations that are 2.6 times higher in the Atlantic. This finding is consistent with the 3.6-times greater riverine water-discharge to the Atlantic Ocean3,4, and with known patterns of ocean circulation5. It appears that terrigenous {DOM} comprises only a small fraction (0.7–2.4\%) of the total {DOM} in the ocean, and that its oceanic residence time (21–132yr) is much shorter than that of marine {DOM}6,7. The regeneration of nutrients during rapid cycling of terrigenous {DOM} could contribute to high rates of primary production in the coastal ocean.}
-      \field{issn}{1476-4687}
-      \field{journaltitle}{Nature}
-      \field{langid}{english}
-      \field{month}{4}
-      \field{number}{6624}
-      \field{shortjournal}{Nature}
-      \field{title}{Distribution and cycling of terrigenous dissolved organic matter in the ocean}
-      \field{urlday}{7}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
-      \field{volume}{386}
-      \field{year}{1997}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{480\bibrangedash 482}
-      \range{pages}{3}
-      \verb{doi}
-      \verb 10.1038/386480a0
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/millieginty/Zotero/storage/99H655BG/Opsahl and Benner - 1997 - Distribution and cycling of terrigenous dissolved .pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/NS4QH59G/386480a0.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://www.nature.com/articles/386480a0
-      \endverb
-      \verb{url}
-      \verb http://www.nature.com/articles/386480a0
-      \endverb
-    \endentry
-    \entry{ward_marine_2018}{article}{}
-      \name{author}{7}{}{%
-        {{hash=0994d5d46f72d63ad29956d030637392}{%
-           family={Ward},
-           familyi={W\bibinitperiod},
-           given={Nicholas},
-           giveni={N\bibinitperiod}}}%
-        {{hash=ad77250c6007aeba6a685933728a0b6e}{%
-           family={Morrison},
-           familyi={M\bibinitperiod},
-           given={Elise},
-           giveni={E\bibinitperiod}}}%
-        {{hash=37822d5d4fa294e7bbbd95ed1edd3c9a}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Yina},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=d8b81abd4e857c7389f131fb74e915c6}{%
-           family={Rivas-Ubach},
-           familyi={R\bibinithyphendelim U\bibinitperiod},
-           given={Albert},
-           giveni={A\bibinitperiod}}}%
-        {{hash=e93d80771ef630f94aee7f58eb6105b3}{%
-           family={Osborne},
-           familyi={O\bibinitperiod},
-           given={Todd},
-           giveni={T\bibinitperiod}}}%
-        {{hash=08b82eb9fe59fb9bcc6c90b3cf4bf80d}{%
-           family={Ogram},
-           familyi={O\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod}}}%
-        {{hash=8077b84a8c9b948f4e7d3a6032562533}{%
-           family={Bianchi},
-           familyi={B\bibinitperiod},
-           given={Thomas},
-           giveni={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{1feb0157c431718bf6d62d80540465f2}
-      \strng{fullhash}{6421b87b281d63ba6172b31566f22551}
-      \strng{bibnamehash}{6421b87b281d63ba6172b31566f22551}
-      \strng{authorbibnamehash}{6421b87b281d63ba6172b31566f22551}
-      \strng{authornamehash}{1feb0157c431718bf6d62d80540465f2}
-      \strng{authorfullhash}{6421b87b281d63ba6172b31566f22551}
-      \field{extraname}{3}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Here, we examine how marine microbial communities respond when dissolved organic matter ({DOM}) is mobilized from coastal wetlands. Biological transformations of this {DOM} may increase in the presence of reactive substrates, such as algal‐derived {DOM} ({ADOM}) in the coastal zone—a process known as priming. We performed laboratory experiments examining transformations of {DOM} derived from coastal wetland peat ({PDOM}) with and without the presence {ADOM}. Associated shifts in microbial community composition and functional gene abundance were measured to evaluate mechanisms of priming effects. {ADOM} presence stimulated {CO}2 production when compared to the seawater control, which was further enhanced in the copresence of {PDOM}. {DOM} characterization showed a substantial difference in features present at the end of the incubation when {PDOM} was present with and without {ADOM}, while metagenomic sequencing indicated shifts in microbial community composition and identified 23 unique functional genes associated with pathways for the breakdown of aromatic compounds.}
-      \field{day}{3}
-      \field{journaltitle}{Limnology and Oceanography Letters}
-      \field{month}{12}
-      \field{shortjournal}{Limnology and Oceanography Letters}
-      \field{shorttitle}{Marine microbial community responses related to wetland carbon mobilization in the coastal zone}
-      \field{title}{Marine microbial community responses related to wetland carbon mobilization in the coastal zone: Coastal microbial dynamics}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.1002/lol2.10101
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/millieginty/Zotero/storage/USCZRVHI/Ward et al. - 2018 - Marine microbial community responses related to we.pdf:application/pdf
-      \endverb
-    \endentry
     \entry{doherty_bacterial_2017}{article}{}
       \name{author}{13}{}{%
         {{hash=dad544b881bb3fc4649e58bacd00b151}{%
@@ -3942,8 +3370,8 @@
       \strng{authorbibnamehash}{05214e4f646d916df67842e9c43c688f}
       \strng{authornamehash}{05214e4f646d916df67842e9c43c688f}
       \strng{authorfullhash}{05214e4f646d916df67842e9c43c688f}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The bacterioplankton community composition (measured with denaturing gradient gel electrophoresis of 16S ribosomal {DNA} [{rDNA}]) of two nonintersecting temperate rivers was nearly identical and changed synchronously over 2.5 yr, suggesting that intrinsic controls on bacteria were similar in the two rivers and that seasonal changes were driven by extrinsic factors such as climate. Most potential controls on community composition also exhibited synchrony; these included bacterial production rate (leucine incorporation), water temperature, river flow rate, and a suite of chemical measurements. Temperature and river flow rate were the best predictors of temporal patterns in diversity. However, diversity patterns also correlated with bacterial production and concentrations of dissolved organic nitrogen and nitrate, suggesting that diversity is directly or indirectly influenced by complex seasonal shifts in environmental conditions. Winter and summer communities were somewhat predictable over 3 yr, although these communities were not identical. Two polymerase chain reaction ({PCR})-amplified clone libraries of 16S {rDNA}, constructed with summer samples from each river, were not significantly different and contained typical freshwater bacterioplankton of the beta-Proteobacteria, Bacteroidetes, and Actinobacteria, including members of five new freshwater bacterioplankton clusters. However, libraries also included several phylotypes related to bacteria from soil and sediment, indicating the potential importance of allochthonous organisms in river diversity.}
@@ -4018,8 +3446,8 @@
       \strng{authorbibnamehash}{8cde4ff2f026bd6f2bbc99b9d77b15a4}
       \strng{authornamehash}{4658eb2c2ff3a0e9861b95ba0fb53b78}
       \strng{authorfullhash}{8cde4ff2f026bd6f2bbc99b9d77b15a4}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Arctic waters are often enriched with terrestrial dissolved organic matter ({DOM}) characterized by having elevated visible wavelength fluorescence (commonly termed humic-like). Here, we have identified the sources of fluorescent {DOM} ({FDOM}) in a high Arctic fjord (Young Sound, {NE} Greenland) influenced by glacial meltwater. The biological transformation of {FDOM} was further investigated using plankton community size-fractionation experiments. The intensity of ultraviolet fluorescence (commonly termed amino acid-like) was highly variable and positively correlated to bacterial production and mesozooplankton grazing. The overall distribution of visible {FDOM} in the fjord was hydrographically driven by the high-signal intrusion of Arctic terrestrial {DOM} from shelf waters and dilution with glacial runoff in the surface waters. However, the high-intensity visible {FDOM} that accumulated in subsurface waters in summer was not solely linked to allochthonous sources. Our data indicate that microbial activity, in particular, protist bacterivory, to be a source. A decrease in visible {FDOM} in subsurface waters was concurrent with an increase in bacterial abundance, indicating an active bacterial uptake or modification of this {DOM} fraction. This was confirmed by net-loss of visible {FDOM} in experiments during summer when bacterial activity was high. The degradation of visible {FDOM} appeared to be associated with bacteria belonging to the order Alteromonadales mainly the genus Glaciecola and the {SAR}92 clade. The findings provide new insight into the character of Arctic terrestrial {DOM} and the biological production and degradation of both visible and {UV} wavelength organic matter in the coastal Arctic.}
@@ -4099,8 +3527,8 @@
       \strng{authorbibnamehash}{837d37df5462aed70aa9edaf025217e6}
       \strng{authornamehash}{c741800686dc5379d807262e97728563}
       \strng{authorfullhash}{837d37df5462aed70aa9edaf025217e6}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We examined metaproteome profiles from two Arctic microbiomes during 10-day shipboard incubations to directly track early functional and taxonomic responses to a simulated algal bloom and an oligotrophic control. Using a novel peptide-based enrichment analysis, significant changes (p-value {<} 0.01) in biological and molecular functions associated with carbon and nitrogen recycling were observed. Within the first day under both organic matter conditions, Bering Strait surface microbiomes increased protein synthesis, carbohydrate degradation, and cellular redox processes while decreasing C1 metabolism. Taxonomic assignments revealed that the core microbiome collectively responded to algal substrates by assimilating carbon before select taxa utilize and metabolize nitrogen intracellularly. Incubations of Chukchi Sea bottom water microbiomes showed similar, but delayed functional responses to identical treatments. Although 24 functional terms were shared between experimental treatments, the timing, and degree of the remaining responses were highly variable, showing that organic matter perturbation directs community functionality prior to alterations to the taxonomic distribution at the microbiome class level. The dynamic responses of these two oceanic microbial communities have important implications for timing and magnitude of responses to organic perturbations within the Arctic Ocean and how community-level functions may forecast biogeochemical gradients in oceans.}
@@ -4131,6 +3559,357 @@
       \endverb
       \verb{url}
       \verb http://www.nature.com/articles/s41396-019-0503-z
+      \endverb
+    \endentry
+    \entry{ward_marine_2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=0994d5d46f72d63ad29956d030637392}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ad77250c6007aeba6a685933728a0b6e}{%
+           family={Morrison},
+           familyi={M\bibinitperiod},
+           given={Elise},
+           giveni={E\bibinitperiod}}}%
+        {{hash=37822d5d4fa294e7bbbd95ed1edd3c9a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yina},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d8b81abd4e857c7389f131fb74e915c6}{%
+           family={Rivas-Ubach},
+           familyi={R\bibinithyphendelim U\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e93d80771ef630f94aee7f58eb6105b3}{%
+           family={Osborne},
+           familyi={O\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod}}}%
+        {{hash=08b82eb9fe59fb9bcc6c90b3cf4bf80d}{%
+           family={Ogram},
+           familyi={O\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8077b84a8c9b948f4e7d3a6032562533}{%
+           family={Bianchi},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1feb0157c431718bf6d62d80540465f2}
+      \strng{fullhash}{6421b87b281d63ba6172b31566f22551}
+      \strng{bibnamehash}{6421b87b281d63ba6172b31566f22551}
+      \strng{authorbibnamehash}{6421b87b281d63ba6172b31566f22551}
+      \strng{authornamehash}{1feb0157c431718bf6d62d80540465f2}
+      \strng{authorfullhash}{6421b87b281d63ba6172b31566f22551}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Here, we examine how marine microbial communities respond when dissolved organic matter ({DOM}) is mobilized from coastal wetlands. Biological transformations of this {DOM} may increase in the presence of reactive substrates, such as algal‐derived {DOM} ({ADOM}) in the coastal zone—a process known as priming. We performed laboratory experiments examining transformations of {DOM} derived from coastal wetland peat ({PDOM}) with and without the presence {ADOM}. Associated shifts in microbial community composition and functional gene abundance were measured to evaluate mechanisms of priming effects. {ADOM} presence stimulated {CO}2 production when compared to the seawater control, which was further enhanced in the copresence of {PDOM}. {DOM} characterization showed a substantial difference in features present at the end of the incubation when {PDOM} was present with and without {ADOM}, while metagenomic sequencing indicated shifts in microbial community composition and identified 23 unique functional genes associated with pathways for the breakdown of aromatic compounds.}
+      \field{day}{3}
+      \field{journaltitle}{Limnology and Oceanography Letters}
+      \field{month}{12}
+      \field{shortjournal}{Limnology and Oceanography Letters}
+      \field{shorttitle}{Marine microbial community responses related to wetland carbon mobilization in the coastal zone}
+      \field{title}{Marine microbial community responses related to wetland carbon mobilization in the coastal zone: Coastal microbial dynamics}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1002/lol2.10101
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/USCZRVHI/Ward et al. - 2018 - Marine microbial community responses related to we.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{hedges_fluxes_1988}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3c6dc29cc881a024d222d00461d8b816}{%
+           family={Hedges},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima I.},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=94ede5a5ea7c867ff9e4eadb8e3a904f}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Wayne\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7ec1601b98df8628ff94ef4b4b7e8fd2}{%
+           family={Come},
+           familyi={C\bibinitperiod},
+           given={Gregory\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ae9df868f7db6f0412d1c646cafbe39}
+      \strng{fullhash}{0ae9df868f7db6f0412d1c646cafbe39}
+      \strng{bibnamehash}{0ae9df868f7db6f0412d1c646cafbe39}
+      \strng{authorbibnamehash}{0ae9df868f7db6f0412d1c646cafbe39}
+      \strng{authornamehash}{0ae9df868f7db6f0412d1c646cafbe39}
+      \strng{authorfullhash}{0ae9df868f7db6f0412d1c646cafbe39}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Vertical fluxes of bulk particulate material, organic carbon, nitrogen, lignin-derived phenols, and neutral sugars through the water column and into surface sediments of Dabob Bay, Washington, were determined monthly for 1 yr by sediment trap deployments at 30, 60, and 90 m at a site 110 m deep. Vertical fluxes of sinking bulk particulate material in this marine bay were elevated during winter and increased in consistent proportion to sediment trap deployment depth throughout the year. Although annual average particle fluxes at 30 and 60 m bracketed the mean accumulation rate of the underlying sediment, the flux at 90 m was higher by a factor of 2 due to resuspension, horizontal advection, or both. The monthly fluxes of lignin-derived phenols paralleled those of total particulate material, indicating a common riverine origin. The annual average fluxes of vanillyl and cinnamyl phenols through the water column closely matched the corresponding accumulation rates in the underlying sediment, whereas about a third of the total syringyl phenol input was degraded at the water- sediment interface. Although p-hydroxyacetophenone exhibited a stability typical of lignin-derived phenols, the distinctly higher reactivities ({>} 60\% degradation) of p-hydroxybenzaldehyde and p-hydroxybenzoic acid indicate a predominantly nonlignin source. On average, 60 and 70\%, respectively, of the total particulate organic carbon and nitrogen and 65–75\% of all neutral sugars settling through the midwater column were degraded at the water- sediment interface. The elemental and carbohydrate composition of the degraded material was similar to that of local net plankton except for higher percentages of glucose and total neutral sugars. Land-derived organic material accounted for about one-third of the total organic carbon passing through the midwater column and two-thirds of the organic carbon accumulating in the underlying sediments. The amounts of plankton-derived organic matter sinking through the midwater column and being preserved in the sediments below corresponded to 14 and 3\% of the annual mean primary productivity. Plankton-derived organic matter exhibited about 5 times the reactivity of local land-derived organic matter at the water-sediment interface of Dabob Bay and supported essentially all of the benthic respiration.}
+      \field{issn}{1939-5590}
+      \field{journaltitle}{Limnology and Oceanography}
+      \field{langid}{english}
+      \field{number}{5}
+      \field{title}{Fluxes and reactivities of organic matter in a coastal marine bay}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{33}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1137\bibrangedash 1152}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.4319/lo.1988.33.5.1137
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/6JGUULUY/Hedges et al. - 1988 - Fluxes and reactivities of organic matter in a coa.pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/ZDCIDCIS/lo.1988.33.5.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1988.33.5.1137
+      \endverb
+      \verb{url}
+      \verb https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1988.33.5.1137
+      \endverb
+    \endentry
+    \entry{gough_terrestrial_1993}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ea5ddde60f748bc7343f01721036067e}{%
+           family={Gough},
+           familyi={G\bibinitperiod},
+           given={Mark\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d4a1e4272de1c86736a71692495e48a2}{%
+           family={Fauzi},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=dc1cfa30b88e4fb6c1fa79e21eebdff7}{%
+           family={Mantoura},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4d418ec89b4cd68017a981904d59ad89}{%
+           family={Preston},
+           familyi={P\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{709118a65b8fc79f13f4ed815942b99f}
+      \strng{fullhash}{f3575dbd02a34c8a3d4f946ba86da8b3}
+      \strng{bibnamehash}{f3575dbd02a34c8a3d4f946ba86da8b3}
+      \strng{authorbibnamehash}{f3575dbd02a34c8a3d4f946ba86da8b3}
+      \strng{authornamehash}{709118a65b8fc79f13f4ed815942b99f}
+      \strng{authorfullhash}{f3575dbd02a34c8a3d4f946ba86da8b3}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The vascular land plant biopolymers lignin and cutin were surveyed in the surface sediments of coastal and open ocean waters by controlled alkaline {CuO} oxidation/reaction. Two contrasting oceanic regimes were studied: the northwest Mediterranean ({NWM}) Sea, which receives significant particulate terrigenous debris through riverine discharge; and the northeast Atlantic ({NEA}) Ocean, with poorly characterised terrestrial carbon inputs. In the {NWM} products of lignin and cutin co-occurred at all stations, elevated levels (ca. 0.5–3.0 mg lignin phenols/100 mg organic carbon; ca. 0.01–0.09 mg cutin acids/100 mg organic carbon) were observed for near-shore deltaic and shelf sediments. The influence of terrestrial land plant inputs extended across the shelf and through the slope to the abyssal plain, providing molecular evidence for advective offshore transfer of terrestrial carbon. Mass balance estimates for the basin suggest riverine inputs account for the majority of surface sedimentary lignin/cutin, most of which ({>}90\%) is deposited on the shelf. Products of {CuO} oxidation of lignin and cutin were also detected in {NEA} surface sediments, at levels comparable to those observed for the {NWM} continental slope, and were detectable at low concentrations (ca. 0.5 μgg−1 in the sediments of the abyssal plains ({>}4,000 m depth). While atmospheric deposition of lignin/cutin-derived material cannot be discounted in this open ocean system, lateral advective transfer of enriched shelf sediments is inferred as a possible transport process. A progressive enrichment in cutin-derived material relative to lignin was observed offshore, with evidence of an increase in the degree of oxidative alteration of lignin residues. To account for these observations, preferential offshore transport of finer and more degraded material is proposed. Nonspecific oxidation products dominated the gas chromatograms of {NEA} sediments, which appear to originate from marine sources of sedimentary organic carbon. Preliminary mass balance calculations applied to the global ocean margin suggest riverine sources of both particulate lignin and cutin are important and that most ({>}95\%) deposition of recognisable land plant biopolymers occurs in shelf seas.}
+      \field{day}{1}
+      \field{issn}{0016-7037}
+      \field{journaltitle}{Geochimica et Cosmochimica Acta}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{5}
+      \field{shortjournal}{Geochimica et Cosmochimica Acta}
+      \field{title}{Terrestrial plant biopolymers in marine sediments}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{57}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{945\bibrangedash 964}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/0016-7037(93)90032-R
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:/home/millieginty/Zotero/storage/D2DI7EGT/001670379390032R.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/001670379390032R
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/001670379390032R
+      \endverb
+    \endentry
+    \entry{opsahl_distribution_1997}{article}{}
+      \name{author}{2}{}{%
+        {{hash=416b98c18e7570a216a11bd6ae05edb4}{%
+           family={Opsahl},
+           familyi={O\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c8fc71acabccee889e31f14250b5b3e1}{%
+           family={Benner},
+           familyi={B\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d40118141f54223ab6b46d48fdc1bfe4}
+      \strng{fullhash}{d40118141f54223ab6b46d48fdc1bfe4}
+      \strng{bibnamehash}{d40118141f54223ab6b46d48fdc1bfe4}
+      \strng{authorbibnamehash}{d40118141f54223ab6b46d48fdc1bfe4}
+      \strng{authornamehash}{d40118141f54223ab6b46d48fdc1bfe4}
+      \strng{authorfullhash}{d40118141f54223ab6b46d48fdc1bfe4}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Terrigenous dissolved organic matter ({DOM}) is continuously discharged by rivers into the ocean, yet its distribution and reactivity within ocean basins remain poorly defined aspects of the global carbon cycle1. Direct evidence for the presence of terrigenous {DOM} in the open ocean has been found only in dissolved humic substances isolated from surface waters of the eastern equatorial Pacific Ocean2. Here we report the detection of low concentrations of lignin—a biopolymer found only in terrestrial vegetation—in {DOM} collected from the Pacific and Atlantic oceans, indicating that terrigenous {DOM} is distributed throughout the ocean water column. Higher lignin concentrations in Atlantic waters, relative to Pacific waters, reflect terrigenous {DOM} concentrations that are 2.6 times higher in the Atlantic. This finding is consistent with the 3.6-times greater riverine water-discharge to the Atlantic Ocean3,4, and with known patterns of ocean circulation5. It appears that terrigenous {DOM} comprises only a small fraction (0.7–2.4\%) of the total {DOM} in the ocean, and that its oceanic residence time (21–132yr) is much shorter than that of marine {DOM}6,7. The regeneration of nutrients during rapid cycling of terrigenous {DOM} could contribute to high rates of primary production in the coastal ocean.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{6624}
+      \field{shortjournal}{Nature}
+      \field{title}{Distribution and cycling of terrigenous dissolved organic matter in the ocean}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{386}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{480\bibrangedash 482}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/386480a0
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/99H655BG/Opsahl and Benner - 1997 - Distribution and cycling of terrigenous dissolved .pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/NS4QH59G/386480a0.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/386480a0
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/386480a0
+      \endverb
+    \endentry
+    \entry{keil_sorptive_1994}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fc856aee9ebdecd5b48fe2bf437425b9}{%
+           family={Keil},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=02e7762414297fc44a9c09a9b0de7a7f}{%
+           family={Montluçon},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=a1f06d1358471442dacd8545e08d2383}{%
+           family={Prahl},
+           familyi={P\bibinitperiod},
+           given={Fredrick\bibnamedelima G.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3c6dc29cc881a024d222d00461d8b816}{%
+           family={Hedges},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima I.},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c773e6b11537e486e8bbf436baae3c12}
+      \strng{fullhash}{2a9fdad39ae028cbf02bebff66a2bd6d}
+      \strng{bibnamehash}{2a9fdad39ae028cbf02bebff66a2bd6d}
+      \strng{authorbibnamehash}{2a9fdad39ae028cbf02bebff66a2bd6d}
+      \strng{authornamehash}{c773e6b11537e486e8bbf436baae3c12}
+      \strng{authorfullhash}{2a9fdad39ae028cbf02bebff66a2bd6d}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{ORGANIC} matter preserved in marine sediments provides a molecular record of marine biological processes1, accounts for approximately 20\% of all carbon burial2 and plays a key role in balancing the long-term flux of oxygen to the atmosphere3. Only recently has it been appreciated that more than 90\% of the organic matter preserved in most marine sediments is intimately associated with mineral surfaces4. Little is known, however, of the effect that sorption to mineral surfaces might have in controlling either the lability or quantity of organic matter in the marine sedimentary record. The preserved organic material could be either intrinsically stable, or stabilized through interactions with mineral matrices. We show here that sorption of organic matter to mineral surfaces in marine sediments stabilizes the component molecules, slowing remineralization rates by up to five orders of magnitude. Sorptive protection can therefore account for the enigmatic preservation of intrinsically labile molecules such as amino acids and simple sugars in marine deposits5,6 and links the preservation of organic carbon in marine sediments to the deposition of mineral surfaces.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{6490}
+      \field{shortjournal}{Nature}
+      \field{title}{Sorptive preservation of labile organic matter in marine sediments}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{370}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{549\bibrangedash 552}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/370549a0
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/millieginty/Zotero/storage/5VW28LRU/Keil et al. - 1994 - Sorptive preservation of labile organic matter in .pdf:application/pdf;Snapshot:/home/millieginty/Zotero/storage/92ZV6TID/370549a0.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/370549a0
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/370549a0
+      \endverb
+    \endentry
+    \entry{mayer_relationships_1994}{article}{}
+      \name{author}{1}{}{%
+        {{hash=73fb4bbdce572f8158708d36c5ed45c1}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Lawrence\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{73fb4bbdce572f8158708d36c5ed45c1}
+      \strng{fullhash}{73fb4bbdce572f8158708d36c5ed45c1}
+      \strng{bibnamehash}{73fb4bbdce572f8158708d36c5ed45c1}
+      \strng{authorbibnamehash}{73fb4bbdce572f8158708d36c5ed45c1}
+      \strng{authornamehash}{73fb4bbdce572f8158708d36c5ed45c1}
+      \strng{authorfullhash}{73fb4bbdce572f8158708d36c5ed45c1}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Relationships between mineral specific surface area and organic carbon ({OC}) concentration are examined for sediments and soil A-horizons from throughout the world. I found (published elsewhere) that continental shelf sediments from many different regions exhibit downcore loss of {OC} to a refractory background level which shows a consistent relationship with mineral surface area (slope = 0.86 mg m−2 {OC}). This trend is equivalent to a monolayer of organic matter over all surfaces, and is termed the monolayer-equivalent ({ME}) level. Sediments and soils from other environments are compared to this empirically derived relationship. Several continental slope areas show extension of this relationship to considerable depth. Marked excesses of {OC} above this trend, which persist downcore, were found in sediments with high carbonate mineral content or slope sediments with low dissolved oxygen concentrations in the overlying water column. About half of the soils examined also adhered to this relationship, while soils with high carbonate content, low {pH}, or poor drainage showed {OC} concentrations higher than the {ME} level. {OC} concentrations below the {ME} level are found in deltaic regions and areas with low organic matter delivery such as the deep sea or arid soils. The nature of mineral surfaces was examined using N2 adsorption-desorption isotherms, and most surface area was found to be present as pores with {<} 8-nm widths. A hypothesis is developed that explains the observed {OC} concentrations as a saturation of adsorption sites within small pores, which are small enough to exclude hydrolytic enzymes and hence protect organic matter against biological attack. The relationship between this hypothesis and other hypothesized protection mechanisms is discussed. Adsorption is shown to provide a mechanistic and quantitative explanation for spatial and temporal relationships between sedimentation rate and {OC} burial.}
+      \field{day}{1}
+      \field{issn}{0009-2541}
+      \field{journaltitle}{Chemical Geology}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shortjournal}{Chemical Geology}
+      \field{title}{Relationships between mineral surfaces and organic carbon concentrations in soils and sediments}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{114}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{347\bibrangedash 363}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/0009-2541(94)90063-9
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/home/millieginty/Zotero/storage/V4ZAUU7B/Mayer - 1994 - Relationships between mineral surfaces and organic.pdf:application/pdf;ScienceDirect Snapshot:/home/millieginty/Zotero/storage/X7LSDZR2/0009254194900639.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/0009254194900639
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/0009254194900639
       \endverb
     \endentry
     \entry{satinsky_metagenomic_2015}{article}{}

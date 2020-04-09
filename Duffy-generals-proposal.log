@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  7 APR 2020 18:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  8 APR 2020 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,7 +416,7 @@ ern trop-
  []
 
 
-Overfull \hbox (3.18622pt too wide) in paragraph at lines 27--27
+Overfull \hbox (3.18622pt too wide) in paragraph at lines 25--25
  [][] []\OT1/cmr/m/n/12 Metapeptidomic and metapro-teomic sig-na-tures of POM 
  []
 
@@ -424,111 +424,103 @@ Overfull \hbox (3.18622pt too wide) in paragraph at lines 27--27
 \tf@toc=\write4
 \openout4 = `Duffy-generals-proposal.toc'.
 
- [2] [3]
-Underfull \vbox (badness 1067) has occurred while \output is active []
-
- [4]
+ [2] [3] [4]
 <fig1-denovo.jpg, id=20, 948.54375pt x 688.07062pt>
 File: fig1-denovo.jpg Graphic file (type jpg)
 <use fig1-denovo.jpg>
-Package pdftex.def Info: fig1-denovo.jpg  used on input line 73.
+Package pdftex.def Info: fig1-denovo.jpg  used on input line 75.
 (pdftex.def)             Requested size: 390.0pt x 282.89821pt.
-
-[5] [6 <./fig1-denovo.jpg>] [7]
-Overfull \hbox (1.24913pt too wide) in paragraph at lines 96--97
-\OT1/cmr/m/n/12 Both the bench-mark \OT1/cmr/m/it/12 Prochloro-coc-cus \OT1/cmr
-/m/n/12 pep-tide anal-y-sis and ETNP POM study,
+ [5] [6 <./fig1-denovo.jpg>] [7] [8] [9] [10]
+Overfull \hbox (37.99382pt too wide) in paragraph at lines 152--152
+\OT1/cmr/bx/n/14.4 ments, \OT1/cmr/bx/it/14.4 in situ \OT1/cmr/bx/n/14.4 res-pi
+-ra-tion rate de-ter-mi-na-tions, metapro-
  []
 
-[8] [9]
-Underfull \vbox (badness 1194) has occurred while \output is active []
-
- [10]
 [11]
 <pomz-sed-trap-sta.jpg, id=45, 995.97093pt x 445.665pt>
 File: pomz-sed-trap-sta.jpg Graphic file (type jpg)
 <use pomz-sed-trap-sta.jpg>
-Package pdftex.def Info: pomz-sed-trap-sta.jpg  used on input line 149.
+Package pdftex.def Info: pomz-sed-trap-sta.jpg  used on input line 163.
 (pdftex.def)             Requested size: 390.0pt x 174.51587pt.
  [12 <./POMZ-sed-trap-sta.jpg>]
-Overfull \hbox (24.96104pt too wide) in paragraph at lines 187--187
+Overfull \hbox (24.96104pt too wide) in paragraph at lines 198--198
 []\OT1/cmr/bx/n/12 Metapeptidomic and metapro-teomic sig-na-tures of POM throug
 h
  []
 
-<etnp2017-cyano-mods.jpg, id=49, 801.74532pt x 525.46312pt>
+[13]
+<etnp2017-cyano-mods.jpg, id=53, 801.74532pt x 525.46312pt>
 File: etnp2017-cyano-mods.jpg Graphic file (type jpg)
 <use etnp2017-cyano-mods.jpg>
-Package pdftex.def Info: etnp2017-cyano-mods.jpg  used on input line 194.
+Package pdftex.def Info: etnp2017-cyano-mods.jpg  used on input line 205.
 (pdftex.def)             Requested size: 390.0pt x 255.61101pt.
 
-Overfull \hbox (2.9939pt too wide) in paragraph at lines 201--201
-[]\OT1/cmr/bx/n/12 Metabolic rate cal-cu-la-tions from \OT1/cmr/bx/it/12 in sit
-u \OT1/cmr/bx/n/12 incubation-sediment
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[13] [14 <./etnp2017-cyano-mods.jpg>] [15] [16]
+ [14 <./etnp2017-cyano-mods.jpg>] [15] [16]
 <amazon-sta-map.jpg, id=64, 877.77937pt x 481.04718pt>
 File: amazon-sta-map.jpg Graphic file (type jpg)
 <use amazon-sta-map.jpg>
-Package pdftex.def Info: amazon-sta-map.jpg  used on input line 236.
+Package pdftex.def Info: amazon-sta-map.jpg  used on input line 257.
 (pdftex.def)             Requested size: 390.0pt x 213.73134pt.
- [17 <./amazon-sta-map.jpg>]
-[18] [19]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 281.
+ [17 <./amazon-sta-map.jpg>] [18] [19]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 306.
 
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 281.
- [20]
-[21]
-Overfull \hbox (8.25278pt too wide) in paragraph at lines 340--340
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 306.
+ [20] [21]
+Overfull \hbox (8.25278pt too wide) in paragraph at lines 365--365
 []\OT1/cmr/m/n/12 Kristin Bergauer, An-to-nio Fernandez-Guerra, Juan A. L. Gar-
 cia, Richard
  []
 
 [22]
-Overfull \hbox (14.81937pt too wide) in paragraph at lines 340--340
+Overfull \hbox (14.81937pt too wide) in paragraph at lines 365--365
 \OT1/cmr/m/n/12 ing us-ing tan-dem mass spec-trom-e-try''. In: \OT1/cmr/m/it/12
  Drug Dis-cov-ery To-day: BIOSIL-
  []
 
 [23] [24]
-Overfull \hbox (1.99294pt too wide) in paragraph at lines 340--340
+Overfull \hbox (1.99294pt too wide) in paragraph at lines 365--365
 \OT1/cmr/m/n/12 land, Richard G. Keil, Al-lan H. De-vol, and Gabrielle Ro-cap. 
 ``Cyanobac-
  []
 
-[25] [26]
-Overfull \hbox (11.8472pt too wide) in paragraph at lines 340--340
+[25]
+Overfull \hbox (11.8472pt too wide) in paragraph at lines 365--365
 \OT1/cmr/m/n/12 P. Payet, Jef-frey E. Richey, Bran-don M. Satin-sky, Hen-rique 
 O. Sawakuchi,
  []
 
-[27]
-Overfull \hbox (0.25421pt too wide) in paragraph at lines 340--340
+[26]
+Overfull \hbox (0.25421pt too wide) in paragraph at lines 365--365
 []\OT1/cmr/m/n/12 Molly P. Mikan, H. Rodger Har-vey, Emma Timmins-Schiffman, Mi
 chael
  []
 
-
-Overfull \hbox (16.97266pt too wide) in paragraph at lines 340--340
+[27]
+Overfull \hbox (16.97266pt too wide) in paragraph at lines 365--365
 []\OT1/cmr/m/n/12 Rohit Ghai, Fran-cisco Rodriguez-Valera, Kather-ine D. McMa-h
 on, Danyelle
  []
 
-[28] [29] (./Duffy-generals-proposal.aux)
+[28] (./Duffy-generals-proposal.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'Duffy-generals-proposal.run.xml'.
 \openout1 = `Duffy-generals-proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8694 strings out of 494553
- 158668 string characters out of 6177377
- 576072 words of memory out of 5000000
- 12274 multiletter control sequences out of 15000+600000
+ 8692 strings out of 494553
+ 158533 string characters out of 6177377
+ 572230 words of memory out of 5000000
+ 12272 multiletter control sequences out of 15000+600000
  14247 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,6n,45p,3047b,1266s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -543,10 +535,10 @@ e1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmtt12.pfb>
-Output written on Duffy-generals-proposal.pdf (29 pages, 495686 bytes).
+Output written on Duffy-generals-proposal.pdf (28 pages, 493976 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 142 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
