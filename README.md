@@ -1,2 +1,2 @@
 # general-exam
-Repo for General exam latex files
+Repo for General exam tex files
