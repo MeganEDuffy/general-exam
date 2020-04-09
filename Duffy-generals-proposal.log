@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  9 APR 2020 13:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  9 APR 2020 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,14 +466,14 @@ Overfull \hbox (24.96104pt too wide) in paragraph at lines 219--219
 h
  []
 
-
+[15]
 Overfull \hbox (8.77788pt too wide) in paragraph at lines 228--229
 []\OT1/cmr/m/n/12 To ad-dress \OT1/cmr/bx/n/12 Ques-tion 3.4\OT1/cmr/m/n/12 , I
 'll con-tinue to probe both \OT1/cmr/m/it/12 de novo \OT1/cmr/m/n/12 and databa
 se-
  []
 
-[15]
+
 Overfull \hbox (1.69316pt too wide) in paragraph at lines 231--232
 []\OT1/cmr/m/n/12 Determine qual-ity and quan-tity (semi-quantitatively by spec
 -tral counts)
@@ -564,7 +564,7 @@ Package logreq Info: Writing requests to 'Duffy-generals-proposal.run.xml'.
 Here is how much of TeX's memory you used:
  8724 strings out of 494553
  159642 string characters out of 6177377
- 592239 words of memory out of 5000000
+ 591259 words of memory out of 5000000
  12303 multiletter control sequences out of 15000+600000
  14247 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -580,7 +580,7 @@ e1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmtt12.pfb>
-Output written on Duffy-generals-proposal.pdf (31 pages, 572620 bytes).
+Output written on Duffy-generals-proposal.pdf (31 pages, 573137 bytes).
 PDF statistics:
  154 PDF objects out of 1000 (max. 8388607)
  103 compressed objects within 2 object streams
