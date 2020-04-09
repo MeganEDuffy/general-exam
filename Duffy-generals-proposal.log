@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  9 APR 2020 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  9 APR 2020 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,98 +448,110 @@ File: pomz-sed-trap-sta.jpg Graphic file (type jpg)
 <use pomz-sed-trap-sta.jpg>
 Package pdftex.def Info: pomz-sed-trap-sta.jpg  used on input line 163.
 (pdftex.def)             Requested size: 390.0pt x 174.51587pt.
- [12 <./POMZ-sed-trap-sta.jpg>] [13]
-Overfull \hbox (24.96104pt too wide) in paragraph at lines 208--208
+ [12 <./POMZ-sed-trap-sta.jpg>]
+<etnp-flux-trap.jpg, id=49, 845.40843pt x 356.0803pt>
+File: etnp-flux-trap.jpg Graphic file (type jpg)
+<use etnp-flux-trap.jpg>
+Package pdftex.def Info: etnp-flux-trap.jpg  used on input line 195.
+(pdftex.def)             Requested size: 390.0pt x 164.26076pt.
+
+Overfull \hbox (5.93617pt too wide) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 Flux at-ten-u-a-tion curves are an-tic-i-pated to vary be-tween
+ cruise years, nearshore
+ []
+
+[13] [14 <./etnp-flux-trap.jpg>]
+Overfull \hbox (24.96104pt too wide) in paragraph at lines 219--219
 []\OT1/cmr/bx/n/12 Metapeptidomic and metapro-teomic sig-na-tures of POM throug
 h
  []
 
-[14]
-Overfull \hbox (8.77788pt too wide) in paragraph at lines 217--218
+
+Overfull \hbox (8.77788pt too wide) in paragraph at lines 228--229
 []\OT1/cmr/m/n/12 To ad-dress \OT1/cmr/bx/n/12 Ques-tion 3.4\OT1/cmr/m/n/12 , I
 'll con-tinue to probe both \OT1/cmr/m/it/12 de novo \OT1/cmr/m/n/12 and databa
 se-
  []
 
-
-Overfull \hbox (1.69316pt too wide) in paragraph at lines 220--221
+[15]
+Overfull \hbox (1.69316pt too wide) in paragraph at lines 231--232
 []\OT1/cmr/m/n/12 Determine qual-ity and quan-tity (semi-quantitatively by spec
 -tral counts)
  []
 
-<etnp2017-cyano-mods.jpg, id=57, 801.74532pt x 525.46312pt>
+<etnp2017-cyano-mods.jpg, id=61, 801.74532pt x 525.46312pt>
 File: etnp2017-cyano-mods.jpg Graphic file (type jpg)
 <use etnp2017-cyano-mods.jpg>
-Package pdftex.def Info: etnp2017-cyano-mods.jpg  used on input line 226.
+Package pdftex.def Info: etnp2017-cyano-mods.jpg  used on input line 237.
 (pdftex.def)             Requested size: 390.0pt x 255.61101pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 234.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 245.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 234.
- [15] [16 <./etnp2017-cyano-mods.jpg>] [17]
-Overfull \hbox (2.18481pt too wide) in paragraph at lines 264--265
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 245.
+ [16] [17 <./etnp2017-cyano-mods.jpg>] [18]
+Overfull \hbox (2.18481pt too wide) in paragraph at lines 275--276
 \OT1/cmr/m/n/12 black car-bon) in the river-to-ocean con-tin-uum across the dif
 -fer-ent flow regimes
  []
 
 
-Overfull \hbox (1.33621pt too wide) in paragraph at lines 268--269
+Overfull \hbox (1.33621pt too wide) in paragraph at lines 279--280
 \OT1/cmr/m/n/12 ship-board in-cu-ba-tions and col-lab-o-ra-tors' geo-chem-i-cal
  mea-sure-ments of lignin,
  []
 
-<amazon-sta-map.jpg, id=68, 901.11656pt x 409.53pt>
+<amazon-sta-map.jpg, id=72, 961.34157pt x 437.38406pt>
 File: amazon-sta-map.jpg Graphic file (type jpg)
 <use amazon-sta-map.jpg>
-Package pdftex.def Info: amazon-sta-map.jpg  used on input line 273.
-(pdftex.def)             Requested size: 390.0pt x 177.24426pt.
-[18]
-Overfull \hbox (4.80305pt too wide) in paragraph at lines 286--287
+Package pdftex.def Info: amazon-sta-map.jpg  used on input line 284.
+(pdftex.def)             Requested size: 390.0pt x 177.4399pt.
+[19 <./amazon-sta-map.jpg>]
+Overfull \hbox (4.80305pt too wide) in paragraph at lines 297--298
 \OT1/cmr/m/n/12 sure-ments, ADCP, nu-tri-ents, C + N, and DOM (Wa-ter-hack-week
  project,
  []
 
-[19 <./amazon-sta-map.jpg>] [20] [21] [22] [23]
-Overfull \hbox (8.25278pt too wide) in paragraph at lines 384--384
+[20] [21] [22] [23]
+Overfull \hbox (8.25278pt too wide) in paragraph at lines 364--364
 []\OT1/cmr/m/n/12 Kristin Bergauer, An-to-nio Fernandez-Guerra, Juan A. L. Gar-
 cia, Richard
  []
 
 [24]
-Overfull \hbox (14.81937pt too wide) in paragraph at lines 384--384
+Overfull \hbox (14.81937pt too wide) in paragraph at lines 364--364
 \OT1/cmr/m/n/12 ing us-ing tan-dem mass spec-trom-e-try''. In: \OT1/cmr/m/it/12
  Drug Dis-cov-ery To-day: BIOSIL-
  []
 
 [25] [26]
-Overfull \hbox (1.99294pt too wide) in paragraph at lines 384--384
+Overfull \hbox (1.99294pt too wide) in paragraph at lines 364--364
 \OT1/cmr/m/n/12 land, Richard G. Keil, Al-lan H. De-vol, and Gabrielle Ro-cap. 
 ``Cyanobac-
  []
 
 [27]
-Overfull \hbox (13.88202pt too wide) in paragraph at lines 384--384
+Overfull \hbox (13.88202pt too wide) in paragraph at lines 364--364
 \OT1/cmr/m/n/12 Tax-o-nomic Anal-y-sis of Metapro-teomics Data''. In: \OT1/cmr/
 m/it/12 Pro-teomes \OT1/cmr/m/n/12 6.1 (Dec. 27,
  []
 
 
-Overfull \hbox (0.25421pt too wide) in paragraph at lines 384--384
+Overfull \hbox (0.25421pt too wide) in paragraph at lines 364--364
 []\OT1/cmr/m/n/12 Molly P. Mikan, H. Rodger Har-vey, Emma Timmins-Schiffman, Mi
 chael
  []
 
 [28] [29]
-Overfull \hbox (11.8472pt too wide) in paragraph at lines 384--384
+Overfull \hbox (11.8472pt too wide) in paragraph at lines 364--364
 \OT1/cmr/m/n/12 P. Payet, Jef-frey E. Richey, Bran-don M. Satin-sky, Hen-rique 
 O. Sawakuchi,
  []
 
 
-Overfull \hbox (16.97266pt too wide) in paragraph at lines 384--384
+Overfull \hbox (16.97266pt too wide) in paragraph at lines 364--364
 []\OT1/cmr/m/n/12 Rohit Ghai, Fran-cisco Rodriguez-Valera, Kather-ine D. McMa-h
 on, Danyelle
  []
@@ -550,13 +562,13 @@ Package logreq Info: Writing requests to 'Duffy-generals-proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8718 strings out of 494553
- 159518 string characters out of 6177377
- 592012 words of memory out of 5000000
- 12298 multiletter control sequences out of 15000+600000
+ 8724 strings out of 494553
+ 159642 string characters out of 6177377
+ 592239 words of memory out of 5000000
+ 12303 multiletter control sequences out of 15000+600000
  14247 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,6n,46p,3047b,1266s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,46p,3047b,1268s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/tex
@@ -568,10 +580,10 @@ e1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmtt12.pfb>
-Output written on Duffy-generals-proposal.pdf (31 pages, 493474 bytes).
+Output written on Duffy-generals-proposal.pdf (31 pages, 572620 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
+ 154 PDF objects out of 1000 (max. 8388607)
  103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
