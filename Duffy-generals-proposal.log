@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  10 APR 2020 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  20 MAY 2020 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,19 +394,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Duffy-generals-proposal.bbl' found.
 
-(./Duffy-generals-proposal.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                riffle
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./Duffy-generals-proposal.bbl)
 Package biblatex Info: Reference section=0 on input line 15.
 Package biblatex Info: Reference segment=0 on input line 15.
 LaTeX Font Info:    Try loading font information for U+msa on input line 19.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 19.
@@ -571,10 +564,10 @@ Package logreq Info: Writing requests to 'Duffy-generals-proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8730 strings out of 494553
- 159716 string characters out of 6177377
- 592352 words of memory out of 5000000
- 12308 multiletter control sequences out of 15000+600000
+ 8729 strings out of 494553
+ 159706 string characters out of 6177377
+ 591279 words of memory out of 5000000
+ 12307 multiletter control sequences out of 15000+600000
  14247 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,6n,46p,3047b,1268s stack positions out of 5000i,500n,10000p,200000b,80000s
