@@ -1,26 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.2.29)  20 MAY 2020 11:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.11)  26 JUN 2020 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Duffy-generals-proposal.tex
 (./Duffy-generals-proposal.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
@@ -30,39 +31,29 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 (/home/millieginty/texmf/tex/latex/dirtytalk/dirtytalk.sty
 Package: dirtytalk 2010/11/21 A package making "quoting" easier
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@dirtytalk@qdepth=\count88
+\c@dirtytalk@qdepth=\count175
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -70,13 +61,13 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen103
-\Gin@req@width=\dimen104
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -86,241 +77,247 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-Package pdftexcmds Info: LuaTeX not detected.
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count89
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
 )
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count90
+\lrq@indent=\count177
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count91
-\c@listtotal=\count92
-\c@listcount=\count93
-\c@liststart=\count94
-\c@liststop=\count95
-\c@citecount=\count96
-\c@citetotal=\count97
-\c@multicitecount=\count98
-\c@multicitetotal=\count99
-\c@instcount=\count100
-\c@maxnames=\count101
-\c@minnames=\count102
-\c@maxitems=\count103
-\c@minitems=\count104
-\c@citecounter=\count105
-\c@maxcitecounter=\count106
-\c@savedcitecounter=\count107
-\c@uniquelist=\count108
-\c@uniquename=\count109
-\c@refsection=\count110
-\c@refsegment=\count111
-\c@maxextratitle=\count112
-\c@maxextratitleyear=\count113
-\c@maxextraname=\count114
-\c@maxextradate=\count115
-\c@maxextraalpha=\count116
-\c@abbrvpenalty=\count117
-\c@highnamepenalty=\count118
-\c@lownamepenalty=\count119
-\c@maxparens=\count120
-\c@parenlevel=\count121
-\blx@tempcnta=\count122
-\blx@tempcntb=\count123
-\blx@tempcntc=\count124
-\blx@maxsection=\count125
-\blx@maxsegment@0=\count126
-\blx@notetype=\count127
-\blx@parenlevel@text=\count128
-\blx@parenlevel@foot=\count129
-\blx@sectionciteorder@0=\count130
-\blx@entrysetcounter=\count131
-\labelnumberwidth=\skip43
-\labelalphawidth=\skip44
-\biblabelsep=\skip45
-\bibitemsep=\skip46
-\bibnamesep=\skip47
-\bibinitsep=\skip48
-\bibparsep=\skip49
-\bibhang=\skip50
-\blx@bcfin=\read1
+\c@tabx@nest=\count178
+\c@listtotal=\count179
+\c@listcount=\count180
+\c@liststart=\count181
+\c@liststop=\count182
+\c@citecount=\count183
+\c@citetotal=\count184
+\c@multicitecount=\count185
+\c@multicitetotal=\count186
+\c@instcount=\count187
+\c@maxnames=\count188
+\c@minnames=\count189
+\c@maxitems=\count190
+\c@minitems=\count191
+\c@citecounter=\count192
+\c@maxcitecounter=\count193
+\c@savedcitecounter=\count194
+\c@uniquelist=\count195
+\c@uniquename=\count196
+\c@refsection=\count197
+\c@refsegment=\count198
+\c@maxextratitle=\count199
+\c@maxextratitleyear=\count266
+\c@maxextraname=\count267
+\c@maxextradate=\count268
+\c@maxextraalpha=\count269
+\c@abbrvpenalty=\count270
+\c@highnamepenalty=\count271
+\c@lownamepenalty=\count272
+\c@maxparens=\count273
+\c@parenlevel=\count274
+\blx@tempcnta=\count275
+\blx@tempcntb=\count276
+\blx@tempcntc=\count277
+\blx@maxsection=\count278
+\blx@maxsegment@0=\count279
+\blx@notetype=\count280
+\blx@parenlevel@text=\count281
+\blx@parenlevel@foot=\count282
+\blx@sectionciteorder@0=\count283
+\blx@entrysetcounter=\count284
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read2
 \blx@bcfout=\write3
-\c@mincomprange=\count132
-\c@maxcomprange=\count133
-\c@mincompwidth=\count134
+\blx@langwohyphens=\language3
+\c@mincomprange=\count285
+\c@maxcomprange=\count286
+\c@mincompwidth=\count287
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count135
-\c@savedafterword=\count136
-\c@annotator=\count137
-\c@savedannotator=\count138
-\c@author=\count139
-\c@savedauthor=\count140
-\c@bookauthor=\count141
-\c@savedbookauthor=\count142
-\c@commentator=\count143
-\c@savedcommentator=\count144
-\c@editor=\count145
-\c@savededitor=\count146
-\c@editora=\count147
-\c@savededitora=\count148
-\c@editorb=\count149
-\c@savededitorb=\count150
-\c@editorc=\count151
-\c@savededitorc=\count152
-\c@foreword=\count153
-\c@savedforeword=\count154
-\c@holder=\count155
-\c@savedholder=\count156
-\c@introduction=\count157
-\c@savedintroduction=\count158
-\c@namea=\count159
-\c@savednamea=\count160
-\c@nameb=\count161
-\c@savednameb=\count162
-\c@namec=\count163
-\c@savednamec=\count164
-\c@translator=\count165
-\c@savedtranslator=\count166
-\c@shortauthor=\count167
-\c@savedshortauthor=\count168
-\c@shorteditor=\count169
-\c@savedshorteditor=\count170
-\c@labelname=\count171
-\c@savedlabelname=\count172
-\c@institution=\count173
-\c@savedinstitution=\count174
-\c@lista=\count175
-\c@savedlista=\count176
-\c@listb=\count177
-\c@savedlistb=\count178
-\c@listc=\count179
-\c@savedlistc=\count180
-\c@listd=\count181
-\c@savedlistd=\count182
-\c@liste=\count183
-\c@savedliste=\count184
-\c@listf=\count185
-\c@savedlistf=\count186
-\c@location=\count187
-\c@savedlocation=\count188
-\c@organization=\count189
-\c@savedorganization=\count190
-\c@origlocation=\count191
-\c@savedoriglocation=\count192
-\c@origpublisher=\count193
-\c@savedorigpublisher=\count194
-\c@publisher=\count195
-\c@savedpublisher=\count196
-\c@language=\count197
-\c@savedlanguage=\count198
-\c@origlanguage=\count199
-\c@savedoriglanguage=\count266
-\c@pageref=\count267
-\c@savedpageref=\count268
-\shorthandwidth=\skip51
-\shortjournalwidth=\skip52
-\shortserieswidth=\skip53
-\shorttitlewidth=\skip54
-\shortauthorwidth=\skip55
-\shorteditorwidth=\skip56
-\locallabelnumberwidth=\skip57
-\locallabelalphawidth=\skip58
-\localshorthandwidth=\skip59
-\localshortjournalwidth=\skip60
-\localshortserieswidth=\skip61
-\localshorttitlewidth=\skip62
-\localshortauthorwidth=\skip63
-\localshorteditorwidth=\skip64
+\c@afterword=\count288
+\c@savedafterword=\count289
+\c@annotator=\count290
+\c@savedannotator=\count291
+\c@author=\count292
+\c@savedauthor=\count293
+\c@bookauthor=\count294
+\c@savedbookauthor=\count295
+\c@commentator=\count296
+\c@savedcommentator=\count297
+\c@editor=\count298
+\c@savededitor=\count299
+\c@editora=\count300
+\c@savededitora=\count301
+\c@editorb=\count302
+\c@savededitorb=\count303
+\c@editorc=\count304
+\c@savededitorc=\count305
+\c@foreword=\count306
+\c@savedforeword=\count307
+\c@holder=\count308
+\c@savedholder=\count309
+\c@introduction=\count310
+\c@savedintroduction=\count311
+\c@namea=\count312
+\c@savednamea=\count313
+\c@nameb=\count314
+\c@savednameb=\count315
+\c@namec=\count316
+\c@savednamec=\count317
+\c@translator=\count318
+\c@savedtranslator=\count319
+\c@shortauthor=\count320
+\c@savedshortauthor=\count321
+\c@shorteditor=\count322
+\c@savedshorteditor=\count323
+\c@labelname=\count324
+\c@savedlabelname=\count325
+\c@institution=\count326
+\c@savedinstitution=\count327
+\c@lista=\count328
+\c@savedlista=\count329
+\c@listb=\count330
+\c@savedlistb=\count331
+\c@listc=\count332
+\c@savedlistc=\count333
+\c@listd=\count334
+\c@savedlistd=\count335
+\c@liste=\count336
+\c@savedliste=\count337
+\c@listf=\count338
+\c@savedlistf=\count339
+\c@location=\count340
+\c@savedlocation=\count341
+\c@organization=\count342
+\c@savedorganization=\count343
+\c@origlocation=\count344
+\c@savedoriglocation=\count345
+\c@origpublisher=\count346
+\c@savedorigpublisher=\count347
+\c@publisher=\count348
+\c@savedpublisher=\count349
+\c@language=\count350
+\c@savedlanguage=\count351
+\c@origlanguage=\count352
+\c@savedoriglanguage=\count353
+\c@pageref=\count354
+\c@savedpageref=\count355
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count269
-\c@textcitetotal=\count270
-\c@textcitemaxnames=\count271
-\c@biburlnumpenalty=\count272
-\c@biburlucpenalty=\count273
-\c@biburllcpenalty=\count274
-\c@smartand=\count275
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count356
+\c@textcitetotal=\count357
+\c@textcitemaxnames=\count358
+\c@biburlbigbreakpenalty=\count359
+\c@biburlbreakpenalty=\count360
+\c@biburlnumpenalty=\count361
+\c@biburlucpenalty=\count362
+\c@biburllcpenalty=\count363
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count364
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-natbib.def
-File: blx-natbib.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+File: blx-natbib.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
 )
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count276
-\c@bbx:relatedtotal=\count277
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count365
+\c@bbx:relatedtotal=\count366
 ))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -328,25 +325,26 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
+\@quotelevel=\count367
+\@quotereset=\count368
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count369
+\l__pdf_internal_box=\box45
 )
-\@quotelevel=\count278
-\@quotereset=\count279
-
 (./Duffy-generals-proposal.aux)
 \openout1 = `Duffy-generals-proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -355,37 +353,43 @@ LaTeX Font Info:    ... okay on input line 15.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen105
-\scratchbox=\box27
-\nofMPsegments=\count281
-\nofMParguments=\count282
+\scratchcounter=\count370
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count371
+\nofMParguments=\count372
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen106
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
+\MPscratchCnt=\count373
+\MPscratchDim=\dimen138
+\MPnumerator=\count374
+\makeMPintoPDFobject=\count375
 \everyMPtoPDFconversion=\toks19
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+85.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -397,12 +401,14 @@ Package biblatex Info: ... file 'Duffy-generals-proposal.bbl' found.
 (./Duffy-generals-proposal.bbl)
 Package biblatex Info: Reference section=0 on input line 15.
 Package biblatex Info: Reference segment=0 on input line 15.
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -444,15 +450,16 @@ File: pomz-sed-trap-sta.jpg Graphic file (type jpg)
 <use pomz-sed-trap-sta.jpg>
 Package pdftex.def Info: pomz-sed-trap-sta.jpg  used on input line 165.
 (pdftex.def)             Requested size: 390.0pt x 174.51587pt.
- [12] [13 <./POMZ-sed-trap-sta.jpg>]
+
+Underfull \vbox (badness 2269) has occurred while \output is active []
+
+ [12]
+[13 <./POMZ-sed-trap-sta.jpg>]
 <etnp-flux-trap.jpg, id=53, 845.40843pt x 356.0803pt>
 File: etnp-flux-trap.jpg Graphic file (type jpg)
 <use etnp-flux-trap.jpg>
 Package pdftex.def Info: etnp-flux-trap.jpg  used on input line 197.
 (pdftex.def)             Requested size: 390.0pt x 164.26076pt.
-
-Underfull \vbox (badness 2707) has occurred while \output is active []
-
  [14 <./etnp-flux-trap.jpg>]
 Overfull \hbox (24.96104pt too wide) in paragraph at lines 221--221
 []\OT1/cmr/bx/n/12 Metapeptidomic and metapro-teomic sig-na-tures of POM throug
@@ -477,33 +484,18 @@ File: etnp2017-cyano-mods.jpg Graphic file (type jpg)
 <use etnp2017-cyano-mods.jpg>
 Package pdftex.def Info: etnp2017-cyano-mods.jpg  used on input line 239.
 (pdftex.def)             Requested size: 390.0pt x 255.61101pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 247.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 247.
- [16] [17 <./etnp2017-cyano-mods.jpg>] [18]
+[16] [17 <./etnp2017-cyano-mods.jpg>] [18]
 Overfull \hbox (2.18481pt too wide) in paragraph at lines 277--278
 \OT1/cmr/m/n/12 black car-bon) in the river-to-ocean con-tin-uum across the dif
 -fer-ent flow regimes
  []
 
-
-Overfull \hbox (1.33621pt too wide) in paragraph at lines 281--282
-\OT1/cmr/m/n/12 ship-board in-cu-ba-tions and col-lab-o-ra-tors' geo-chem-i-cal
- mea-sure-ments of lignin,
- []
-
-<amazon-sta-map.jpg, id=72, 961.34157pt x 437.38406pt>
+[19]
+<amazon-sta-map.jpg, id=76, 961.34157pt x 437.38406pt>
 File: amazon-sta-map.jpg Graphic file (type jpg)
 <use amazon-sta-map.jpg>
 Package pdftex.def Info: amazon-sta-map.jpg  used on input line 286.
 (pdftex.def)             Requested size: 390.0pt x 177.4399pt.
-[19]
-Underfull \vbox (badness 2057) has occurred while \output is active []
-
  [20 <./amazon-sta-map.jpg>]
 Overfull \hbox (4.80305pt too wide) in paragraph at lines 299--300
 \OT1/cmr/m/n/12 sure-ments, ADCP, nu-tri-ents, C + N, and DOM (Wa-ter-hack-week
@@ -516,76 +508,65 @@ File: gantt.jpg Graphic file (type jpg)
 <use gantt.jpg>
 Package pdftex.def Info: gantt.jpg  used on input line 335.
 (pdftex.def)             Requested size: 390.0pt x 300.81418pt.
- [24 <./gantt.jpg>]
-Overfull \hbox (8.25278pt too wide) in paragraph at lines 347--347
-[]\OT1/cmr/m/n/12 Kristin Bergauer, An-to-nio Fernandez-Guerra, Juan A. L. Gar-
-cia, Richard
+ [24 <./gantt.jpg>] [25]
+Overfull \hbox (7.53235pt too wide) in paragraph at lines 347--347
+[][]\OT1/cmr/m/n/12 Wolfe, Alexan-der, Mark Ed-lund, Arthur Sweet, and Steven C
+reighton (June 26,
  []
 
-[25]
-Overfull \hbox (14.81937pt too wide) in paragraph at lines 347--347
-\OT1/cmr/m/n/12 ing us-ing tan-dem mass spec-trom-e-try''. In: \OT1/cmr/m/it/12
- Drug Dis-cov-ery To-day: BIOSIL-
- []
-
-[26] [27]
-Overfull \hbox (1.99294pt too wide) in paragraph at lines 347--347
-\OT1/cmr/m/n/12 land, Richard G. Keil, Al-lan H. De-vol, and Gabrielle Ro-cap. 
-``Cyanobac-
- []
-
-[28]
-Overfull \hbox (13.88202pt too wide) in paragraph at lines 347--347
-\OT1/cmr/m/n/12 Tax-o-nomic Anal-y-sis of Metapro-teomics Data''. In: \OT1/cmr/
-m/it/12 Pro-teomes \OT1/cmr/m/n/12 6.1 (Dec. 27,
+[26]
+Overfull \hbox (3.41965pt too wide) in paragraph at lines 347--347
+[][]\OT1/cmr/m/n/12 Deutsch, Cur-tis, Hol-ger Brix, Taka Ito, Hart-mut Fren-zel
+, and Lu-Anne Thomp-
  []
 
 
-Overfull \hbox (0.25421pt too wide) in paragraph at lines 347--347
-[]\OT1/cmr/m/n/12 Molly P. Mikan, H. Rodger Har-vey, Emma Timmins-Schiffman, Mi
-chael
+Overfull \hbox (2.44466pt too wide) in paragraph at lines 347--347
+[][]\OT1/cmr/m/n/12 Paulmier, A. and D. Ruiz-Pino (Mar. 2009). ``Oxy-gen min-i-
+mum zones (OMZs)
  []
 
-[29] [30]
-Overfull \hbox (11.8472pt too wide) in paragraph at lines 347--347
-\OT1/cmr/m/n/12 P. Payet, Jef-frey E. Richey, Bran-don M. Satin-sky, Hen-rique 
-O. Sawakuchi,
+[27] [28]
+Overfull \hbox (8.70897pt too wide) in paragraph at lines 347--347
+\OT1/cmr/m/n/12 315.5813, pp. 838{840. \OT1/cmr/m/sc/12 issn\OT1/cmr/m/n/12 : 0
+036-8075, 1095-9203. \OT1/cmr/m/sc/12 doi\OT1/cmr/m/n/12 : $\OT1/cmtt/m/n/12 10
+ . 1126 / science .
  []
 
-
-Overfull \hbox (16.97266pt too wide) in paragraph at lines 347--347
-[]\OT1/cmr/m/n/12 Rohit Ghai, Fran-cisco Rodriguez-Valera, Kather-ine D. McMa-h
-on, Danyelle
+[29]
+Overfull \hbox (3.00616pt too wide) in paragraph at lines 347--347
+\OT1/cmr/m/n/12 macro-molecules in the Ama-zon River''. In: \OT1/cmr/m/it/12 Na
+-ture Geo-science \OT1/cmr/m/n/12 6.7, pp. 530{
  []
 
-[31] [32] (./Duffy-generals-proposal.aux)
+[30] [31] (./Duffy-generals-proposal.aux)
 Package logreq Info: Writing requests to 'Duffy-generals-proposal.run.xml'.
 \openout1 = `Duffy-generals-proposal.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8729 strings out of 494553
- 159706 string characters out of 6177377
- 591279 words of memory out of 5000000
- 12307 multiletter control sequences out of 15000+600000
- 14247 words of font info for 54 fonts, out of 8000000 for 9000
+ 9624 strings out of 483183
+ 177959 string characters out of 5966292
+ 812092 words of memory out of 5000000
+ 24546 multiletter control sequences out of 15000+600000
+ 543282 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,6n,46p,3047b,1268s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmtt12.pfb>
-Output written on Duffy-generals-proposal.pdf (32 pages, 669970 bytes).
+ 42i,6n,53p,2879b,1253s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/millieginty/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm12
+00.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmtt12.pfb>
+Output written on Duffy-generals-proposal.pdf (31 pages, 663923 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 156 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

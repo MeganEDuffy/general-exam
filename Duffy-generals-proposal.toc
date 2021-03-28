@@ -1,41 +1,41 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Proposed work}{4}% 
+\contentsline {section}{\numberline {1}Proposed work}{4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1}{Chapter 1: De novo}-assisted peptidomics helps in the study of marine carbon flux and protein degradation}{4}% 
+\contentsline {subsection}{\numberline {1.1}{Chapter 1: De novo}-assisted peptidomics helps in the study of marine carbon flux and protein degradation}{4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.1}Benchmark: \textit {Prochlorococcus marinus} culture}{5}% 
+\contentsline {subsubsection}{\numberline {1.1.1}Benchmark: \textit {Prochlorococcus marinus} culture}{5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.1.2}Preliminary environmental application: the eastern tropical North Pacific}{7}% 
+\contentsline {subsubsection}{\numberline {1.1.2}Preliminary environmental application: the eastern tropical North Pacific}{7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2}Chapter 2: Tracking protein breakdown in a controlled algae degradation}{8}% 
+\contentsline {subsection}{\numberline {1.2}Chapter 2: Tracking protein breakdown in a controlled algae degradation}{8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.1}Experimental design}{10}% 
+\contentsline {subsubsection}{\numberline {1.2.1}Experimental design}{10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.2}Peptide evolution over degradation of \textit {T. weissflogii culture}}{10}% 
+\contentsline {subsubsection}{\numberline {1.2.2}Peptide evolution over degradation of \textit {T. weissflogii culture}}{10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.3}Evolution of peptide mass modifications}{11}% 
+\contentsline {subsubsection}{\numberline {1.2.3}Evolution of peptide mass modifications}{11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Chapter 3: High-resolution marine flux measurements, \textit {in situ} respiration rate determinations, and metaproteomic surveys in the eastern tropical North Pacific oxygen deficient zone}{11}% 
+\contentsline {subsection}{\numberline {1.3}Chapter 3: High-resolution marine flux measurements, \textit {in situ} respiration rate determinations, and metaproteomic surveys in the eastern tropical North Pacific oxygen deficient zone}{11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.1}Study site: the eastern tropical North Pacific}{11}% 
+\contentsline {subsubsection}{\numberline {1.3.1}Study site: the eastern tropical North Pacific}{11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.2}Flux of suspended and sinking POM from 2012-2019}{14}% 
+\contentsline {subsubsection}{\numberline {1.3.2}Flux of suspended and sinking POM from 2012-2019}{14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.3}N\textsubscript {2} loss rate calculations from sediment trap-incubators}{15}% 
+\contentsline {subsubsection}{\numberline {1.3.3}N\textsubscript {2} loss rate calculations from sediment trap-incubators}{15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.4}Metapeptidomic and metaproteomic signatures of POM through the ODZ}{15}% 
+\contentsline {subsubsection}{\numberline {1.3.4}Metapeptidomic and metaproteomic signatures of POM through the ODZ}{15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4}Chapter 4: Organic matter exchange in the Lower Amazon River}{18}% 
+\contentsline {subsection}{\numberline {1.4}Chapter 4: Organic matter exchange in the Lower Amazon River}{18}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.1}The Lower Amazon River-to-Ocean Continuum}{18}% 
+\contentsline {subsubsection}{\numberline {1.4.1}The Lower Amazon River-to-Ocean Continuum}{18}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.2}Metaproteomic insights across the Continuum}{20}% 
+\contentsline {subsubsection}{\numberline {1.4.2}Metaproteomic insights across the Continuum}{20}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.3}Organic matter degradation incubations}{21}% 
+\contentsline {subsubsection}{\numberline {1.4.3}Organic matter degradation incubations}{22}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}COVID-19 Considerations}{23}% 
+\contentsline {section}{\numberline {2}COVID-19 Considerations}{23}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Timeline of research}{24}% 
+\contentsline {section}{\numberline {3}Timeline of research}{24}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}References}{25}% 
+\contentsline {section}{\numberline {4}References}{25}%
